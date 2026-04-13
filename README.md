@@ -1,10 +1,10 @@
-# Available .SYSTEMS One-Word Domains (7,583)
+# Available .SYSTEMS One-Word Domains (7,585)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C588%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C583%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C585%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .systems one-word domains from Uni
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,588 rows · **Live catalog:** 7,583 domains
+**Public extract:** 7,588 rows · **Live catalog:** 7,585 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/systems`  
@@ -69,7 +69,7 @@ print(df.head())
 | power.systems     | premium   | $520      | $520          | 98             | 62     | 5      | namecheap                  |
 | short.systems     | available | $21.99    | $45.99        | 76             | 36     | 5      | name.com                   |
 | test.systems      | resell    | —         | —             | 72             | 89     | 4      | Key-Systems, LLC           |
-| pop.systems       | premium   | $41.25    | $41.25        | 82             | 43     | 3      | name.com                   |
+| pop.systems       | premium   | $41.25    | $41.25        | 82             | 44     | 3      | name.com                   |
 | street.systems    | available | $21.99    | —             | 70             | 35     | 6      | name.com                   |
 | authentic.systems | resell    | —         | —             | 76             | 83     | 9      | Sav.com, LLC               |
 | dental.systems    | premium   | $500      | $500          | 90             | 36     | 6      | name.com                   |
@@ -82,7 +82,7 @@ print(df.head())
 | trinity.systems   | available | $21.99    | $45.99        | 72             | 30     | 7      | name.com                   |
 | home.systems      | resell    | —         | —             | 100            | 62     | 4      | GoDaddy.com, LLC           |
 | mining.systems    | premium   | $128.70   | $128.70       | 66             | 27     | 6      | namecheap                  |
-| wicked.systems    | available | $21.99    | $45.99        | 70             | 30     | 6      | name.com                   |
+| wicked.systems    | available | $21.99    | $45.99        | 70             | 28     | 6      | name.com                   |
 | mail.systems      | resell    | —         | —             | 94             | 59     | 4      | Virtualia LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,588-row public sample | 7,583 live domains                               |
+| 7,588-row public sample | 7,585 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
