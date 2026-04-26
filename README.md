@@ -1,22 +1,22 @@
-# Available .SYSTEMS One-Word Domains (7,585)
+# Available .SYSTEMS One-Word Domains (9,966)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C588%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C585%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C966%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .systems one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .systems one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,966 domains** on the canonical page below.
 
-**Public extract:** 7,588 rows · **Live catalog:** 7,585 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,966 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/systems`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SYSTEMS one-word doma
 
 ### Files
 
-- `systems.csv` — public CSV extract (7,588 rows)
-- `systems.json` — public JSON extract (7,588 rows)
+- `systems.csv` — public CSV extract (1,000 rows)
+- `systems.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| mix.systems       | available | $21.99    | $45.99        | 66             | 45     | 3      | name.com                   |
-| weather.systems   | resell    | —         | —             | 118            | 99     | 7      | Network Solutions, LLC     |
-| power.systems     | premium   | $520      | $520          | 98             | 62     | 5      | namecheap                  |
-| short.systems     | available | $21.99    | $45.99        | 76             | 36     | 5      | name.com                   |
-| test.systems      | resell    | —         | —             | 72             | 89     | 4      | Key-Systems, LLC           |
-| pop.systems       | premium   | $41.25    | $41.25        | 82             | 44     | 3      | name.com                   |
-| street.systems    | available | $21.99    | —             | 70             | 35     | 6      | name.com                   |
-| authentic.systems | resell    | —         | —             | 76             | 83     | 9      | Sav.com, LLC               |
-| dental.systems    | premium   | $500      | $500          | 90             | 36     | 6      | name.com                   |
-| adult.systems     | available | $21.99    | $45.99        | 110            | 30     | 5      | name.com                   |
-| with.systems      | resell    | —         | —             | 98             | 71     | 4      | Sav.com, LLC               |
-| delivery.systems  | premium   | $520      | $520          | 72             | 31     | 8      | namecheap                  |
-| excel.systems     | available | $21.99    | —             | 80             | 30     | 5      | name.com                   |
-| easy.systems      | resell    | —         | —             | 128            | 68     | 4      | Squarespace Domains II LLC |
-| advanced.systems  | premium   | $500      | $500          | 74             | 28     | 8      | name.com                   |
-| trinity.systems   | available | $21.99    | $45.99        | 72             | 30     | 7      | name.com                   |
-| home.systems      | resell    | —         | —             | 100            | 62     | 4      | GoDaddy.com, LLC           |
-| mining.systems    | premium   | $128.70   | $128.70       | 66             | 27     | 6      | namecheap                  |
-| wicked.systems    | available | $21.99    | $45.99        | 70             | 28     | 6      | name.com                   |
-| mail.systems      | resell    | —         | —             | 94             | 59     | 4      | Virtualia LLC              |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| shortcuts.systems     | available | $21.99    | —             | 48             | 41     | 10     | name.com         |
+| new.systems           | resell    | —         | —             | 74             | 47     | 3      | Porkbun LLC      |
+| designers.systems     | premium   | $500      | —             | 72             | 15     | 9      | name.com         |
+| stories.systems       | available | $21.99    | —             | 58             | 36     | 7      | name.com         |
+| star.systems          | resell    | —         | —             | 74             | 43     | 4      | Porkbun LLC      |
+| relationships.systems | premium   | $82.50    | —             | 48             | 12     | 13     | name.com         |
+| aliens.systems        | available | $21.99    | —             | 56             | 35     | 6      | name.com         |
+| quick.systems         | resell    | —         | —             | 72             | 41     | 5      | Porkbun LLC      |
+| William.systems       | available | $47.48    | —             | 74             | 31     | 7      | namecheap        |
+| ideas.systems         | resell    | —         | —             | 62             | 37     | 5      | GoDaddy.com, LLC |
+| letsgo.systems        | available | $21.99    | —             | 57             | 31     | 7      | name.com         |
+| process.systems       | resell    | —         | —             | 76             | 33     | 7      | Porkbun LLC      |
+| photos.systems        | available | $21.99    | —             | 54             | 28     | 6      | name.com         |
+| control.systems       | resell    | —         | —             | 78             | 30     | 7      | Porkbun LLC      |
+| KFC.systems           | available | $47.48    | —             | 74             | 27     | 3      | namecheap        |
+| deeplearning.systems  | resell    | —         | —             | 74             | 23     | 13     | GoDaddy.com, LLC |
+| tips.systems          | available | $21.99    | —             | 80             | 26     | 4      | name.com         |
+| was.systems           | resell    | —         | —             | 50             | 22     | 3      | Dynadot Inc      |
+| drops.systems         | available | $21.99    | —             | 52             | 25     | 5      | name.com         |
+| boats.systems         | available | $21.99    | —             | 52             | 24     | 5      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,588-row public sample | 7,585 live domains                               |
+| 1,000-row public sample | 9,966 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
