@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .systems one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,374 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,374 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,374 domains · **Median ask:** $25.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/systems`  
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | letsgo.systems        | available | $21.99    | —             | 57             | 31     | 7      | name.com         |
 | ideas.systems         | resell    | —         | —             | 62             | 37     | 5      | GoDaddy.com, LLC |
 | photos.systems        | available | $21.99    | —             | 54             | 28     | 6      | name.com         |
-| control.systems       | resell    | —         | —             | 78             | 30     | 7      | Porkbun LLC      |
+| control.systems       | resell    | —         | —             | 78             | 31     | 7      | Porkbun LLC      |
 | KFC.systems           | available | $47.48    | —             | 74             | 27     | 3      | namecheap        |
 | deeplearning.systems  | resell    | —         | —             | 74             | 23     | 13     | GoDaddy.com, LLC |
 | tips.systems          | available | $21.99    | —             | 80             | 26     | 4      | name.com         |
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,374 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,374 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is focused entirely on one-word .systems domains. The naming style ranges from direct words like hot.systems to more abstract choices like appreciate.systems and breathe.systems. For founders, the main question is whether the word makes the .systems ending feel intentional, credible, and easy to remember. For investors, the key test is whether the pairing is commercially sensible at the ask and broad enough to attract multiple buyer types. With a median ask of 25.23, pricing appears accessible, but quality still depends on word strength, relevance, and whether the full domain reads naturally as a system, platform, or technical brand.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor words that make “.systems” read naturally
+- Check if the word is easy to spell and repeat aloud
+- Compare broad terms vs narrow or awkward meanings
+- Review trademark exposure before valuing brandability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
