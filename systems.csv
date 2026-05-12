@@ -25,6 +25,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 02ab443c-e4c1-4ea0-9929-ea3fe2ad612c,VirginiaBeach.systems,available,47.48,,58,9,14,namecheap,,
 02b3422e-ebd0-4df1-b472-8fb4921fe6ae,somewhereelse.systems,available,21.99,,60,3,14,name.com,,
 02b6ec42-5cb5-4806-921a-122789443183,cheesedown.systems,available,21.99,,62,0,11,name.com,,
+02c4d685-adba-4155-920b-d16be2a4b5a7,LGBTQ.systems,premium,,,86,20,5,,,
 02e6d0e0-372b-4573-b562-709cd2cf3ad0,Christians.systems,available,47.48,,62,15,10,namecheap,,
 0311c09b-5da1-44b7-b155-a1b5c48fbccb,secondarycare.systems,available,21.99,,69,1,14,name.com,,
 0330c022-9fd3-4d50-bd1d-200b8f8b1b23,gotothewashroom.systems,available,21.99,,56,1,18,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d224717-7566-40e5-80f2-ac0c0b623577,collars.systems,available,21.99,,58,6,7,name.com,,
 5d2d760c-b305-4a24-aad5-aace85f88978,childclass.systems,available,21.99,,50,1,11,name.com,,
 5d425381-eac8-43cb-8759-d137f3477beb,perks.systems,available,21.99,,62,19,5,name.com,,
-5d451c9f-9431-4489-a237-274408f3518a,hospitals.systems,available,21.99,,64,10,9,name.com,,

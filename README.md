@@ -72,6 +72,7 @@ print(df.head())
 | relationships.systems | premium   | $82.50    | —             | 48             | 12     | 13     | name.com         |
 | aliens.systems        | available | $21.99    | —             | 56             | 35     | 6      | name.com         |
 | star.systems          | resell    | —         | —             | 74             | 42     | 4      | Porkbun LLC      |
+| LGBTQ.systems         | premium   | —         | —             | 86             | 20     | 5      | —                |
 | letsgo.systems        | available | $21.99    | —             | 57             | 31     | 7      | name.com         |
 | ideas.systems         | resell    | —         | —             | 62             | 37     | 5      | GoDaddy.com, LLC |
 | photos.systems        | available | $21.99    | —             | 54             | 28     | 6      | name.com         |
@@ -83,7 +84,6 @@ print(df.head())
 | drops.systems         | available | $21.99    | —             | 52             | 25     | 5      | name.com         |
 | boats.systems         | available | $21.99    | —             | 52             | 24     | 5      | name.com         |
 | superhero.systems     | available | $21.99    | —             | 84             | 23     | 9      | name.com         |
-| holidays.systems      | available | $21.99    | —             | 78             | 23     | 8      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
