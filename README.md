@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .systems one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,376 domains · **Median ask:** $25.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/systems`  
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | star.systems          | resell    | —         | —             | 74             | 42     | 4      | Porkbun LLC      |
 | LGBTQ.systems         | premium   | —         | —             | 86             | 20     | 5      | —                |
 | letsgo.systems        | available | $21.99    | —             | 57             | 31     | 7      | name.com         |
-| ideas.systems         | resell    | —         | —             | 62             | 37     | 5      | GoDaddy.com, LLC |
+| ideas.systems         | resell    | —         | —             | 62             | 36     | 5      | GoDaddy.com, LLC |
 | photos.systems        | available | $21.99    | —             | 54             | 28     | 6      | name.com         |
 | control.systems       | resell    | —         | —             | 78             | 31     | 7      | Porkbun LLC      |
 | KFC.systems           | available | $47.48    | —             | 74             | 27     | 3      | namecheap        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
