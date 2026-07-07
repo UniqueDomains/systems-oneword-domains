@@ -1,10 +1,10 @@
-# Available .SYSTEMS One-Word Domains (10,376)
+# Available .SYSTEMS One-Word Domains (10,375)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C376%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C375%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .systems one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,376 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,375 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,376 domains · **Median ask:** $25.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,375 domains · **Median ask:** $24.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/systems`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/systems`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SYSTEMS one-word doma
 
 ### Files
 
-- `systems.csv` — public CSV extract (1,000 rows)
-- `systems.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `systems.csv`, public CSV extract (1,000 rows)
+- `systems.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| shortcuts.systems     | available | $21.99    | —             | 48             | 41     | 10     | name.com         |
-| new.systems           | resell    | —         | —             | 74             | 48     | 3      | Porkbun LLC      |
-| designers.systems     | premium   | $500      | —             | 72             | 15     | 9      | name.com         |
-| stories.systems       | available | $21.99    | —             | 58             | 36     | 7      | name.com         |
-| quick.systems         | resell    | —         | —             | 72             | 43     | 5      | Porkbun LLC      |
-| relationships.systems | premium   | $82.50    | —             | 48             | 12     | 13     | name.com         |
-| aliens.systems        | available | $21.99    | —             | 56             | 35     | 6      | name.com         |
-| star.systems          | resell    | —         | —             | 74             | 42     | 4      | Porkbun LLC      |
-| LGBTQ.systems         | premium   | —         | —             | 86             | 20     | 5      | —                |
-| letsgo.systems        | available | $21.99    | —             | 57             | 31     | 7      | name.com         |
-| ideas.systems         | resell    | —         | —             | 62             | 36     | 5      | GoDaddy.com, LLC |
-| photos.systems        | available | $21.99    | —             | 54             | 28     | 6      | name.com         |
-| control.systems       | resell    | —         | —             | 78             | 31     | 7      | Porkbun LLC      |
-| KFC.systems           | available | $47.48    | —             | 74             | 27     | 3      | namecheap        |
-| deeplearning.systems  | resell    | —         | —             | 74             | 23     | 13     | GoDaddy.com, LLC |
-| tips.systems          | available | $21.99    | —             | 80             | 26     | 4      | name.com         |
-| was.systems           | resell    | —         | —             | 50             | 22     | 3      | Dynadot Inc      |
-| drops.systems         | available | $21.99    | —             | 52             | 25     | 5      | name.com         |
-| boats.systems         | available | $21.99    | —             | 52             | 24     | 5      | name.com         |
-| superhero.systems     | available | $21.99    | —             | 84             | 23     | 9      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| feel.systems      | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
+| easy.systems      | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                                |
+| BJP.systems       | available | $21.99    | —             | medium         | low    | 3      | name.com                                                  |
+| hit.systems       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| rip.systems       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| cry.systems       | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
+| hot.systems       | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| airline.systems   | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
+| gag.systems       | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
+| led.systems       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| speaker.systems   | premium   | $500      | —             | high           | low    | 7      | name.com                                                  |
+| ham.systems       | available | $21.99    | —             | medium         | low    | 3      | name.com                                                  |
+| pot.systems       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| delivery.systems  | premium   | $520      | $520          | high           | low    | 8      | namecheap                                                 |
+| hat.systems       | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
+| cook.systems      | resell    | —         | —             | high           | low    | 4      | united-domains GmbH                                       |
+| suitable.systems  | premium   | $21.99    | —             | medium         | low    | 8      | name.com                                                  |
+| lcd.systems       | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
+| debt.systems      | resell    | —         | —             | high           | low    | 4      | eNom, LLC                                                 |
+| detection.systems | premium   | $500      | —             | medium         | low    | 9      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,376 live domains                        |
+| 1,000-row public sample | 10,375 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is focused entirely on one-word .systems domains. The naming style ranges from direct words like hot.systems to more abstract choices like appreciate.systems and breathe.systems. For founders, the main question is whether the word makes the .systems ending feel intentional, credible, and easy to remember. For investors, the key test is whether the pairing is commercially sensible at the ask and broad enough to attract multiple buyer types. With a median ask of 25.23, pricing appears accessible, but quality still depends on word strength, relevance, and whether the full domain reads naturally as a system, platform, or technical brand.
+This selection is made up entirely of one-word .systems domain names — single-token strings with no hyphens or numbers, drawn from a pool of 10,375 listings. Asking prices sit at a median of roughly $25, spanning everything from short, dictionary-style words to longer descriptive compounds such as coffeesyrup.systems and fasttimes.systems. The .systems extension is widely associated with software, IT, and platform-style branding, which makes this list relevant both for buyers evaluating margin and renewal economics and for founders looking for a clean, ownable name for a technical or SaaS-style project. Updated daily, the mix reflects a broad range of word lengths, tones, and niches rather than a single narrow theme.
 
-- Favor words that make “.systems” read naturally
-- Check if the word is easy to spell and repeat aloud
-- Compare broad terms vs narrow or awkward meanings
-- Review trademark exposure before valuing brandability
+- 10,375 one-word .systems domains in this selection
+- Median asking price near $25
+- No hyphens or numbers — clean single-token names
+- Mix of short brandable words and niche compounds
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
