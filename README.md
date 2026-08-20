@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .systems one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,800 domains · **Median ask:** $19.38 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/systems`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| feel.systems      | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
+| easy.systems      | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                                |
 | BJP.systems       | available | $21.99    | —             | medium         | low    | 3      | name.com                                                  |
 | hit.systems       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
 | rip.systems       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
@@ -82,8 +84,6 @@ print(df.head())
 | hat.systems       | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
 | debt.systems      | resell    | —         | —             | high           | low    | 4      | eNom, LLC                                                 |
 | aggregate.systems | premium   | $118.80   | $118.80       | low            | low    | 9      | namesilo                                                  |
-| ixl.systems       | available | $11.98    | $47.48        | low            | low    | 3      | namecheap                                                 |
-| easy.systems      | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
