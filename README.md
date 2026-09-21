@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .systems one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,161 domains · **Median ask:** $16.75 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/systems`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,13 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| feel.systems     | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
+| beauty.systems   | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
 | bjp.systems      | available | $21.99    | —             | medium         | low    | 3      | name.com                                                  |
 | hit.systems      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
 | rip.systems      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
 | cry.systems      | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
 | hot.systems      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| beauty.systems   | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
 | cxx.systems      | available | $11.98    | $47.48        | low            | low    | 3      | namecheap                                                 |
 | led.systems      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
 | airline.systems  | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
@@ -83,7 +84,6 @@ print(df.head())
 | debt.systems     | resell    | —         | —             | high           | low    | 4      | eNom, LLC                                                 |
 | suitable.systems | premium   | $21.99    | —             | medium         | low    | 8      | name.com                                                  |
 | ixl.systems      | available | $11.98    | $47.48        | low            | low    | 3      | namecheap                                                 |
-| lamp.systems     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
