@@ -1,17 +1,18 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 3546ef11-629f-4197-8a10-a2235f6fa2d1,relish.systems,available,11.98,47.48,high,low,6,namecheap,,,27/09/2026 06:59
-5bf3982f-01ee-491a-80da-cf0e7adb175d,audibility.systems,available,18.99,34.99,high,low,10,namesilo,,,21/09/2026 02:52
+5bf3982f-01ee-491a-80da-cf0e7adb175d,audibility.systems,available,18.99,34.99,medium,low,10,namesilo,,,21/09/2026 02:52
 d00f5f5d-69cd-4119-98ea-183116ebac9e,basle.systems,available,18.99,34.99,medium,low,5,namesilo,,,22/09/2026 10:14
 fe9c715f-6a65-4af6-b5bb-ccf4f71346b0,tonsorial.systems,available,11.98,47.48,medium,low,9,namecheap,,,11/09/2026 17:12
 de9c8666-5ef4-4765-bd64-ea6ed3115500,ovens.systems,available,11.98,47.48,medium,low,5,namecheap,,,20/09/2026 10:00
 811f696c-7dd5-4d3a-a943-d785c1107154,announce.systems,available,21.99,,high,low,8,name.com,,,
 dd81b4ba-f121-4584-9ae2-488278bb9e28,toady.systems,available,11.98,47.48,medium,low,5,namecheap,,,20/09/2026 15:35
 f9c41404-fac6-41f2-b384-0dc9e2ebfe7f,residuum.systems,available,11.98,47.48,medium,low,8,namecheap,,,09/09/2026 15:07
-d6af1385-555b-4b3c-801d-a40ec9addb0c,kurdish.systems,available,11.98,47.48,high,low,7,namecheap,,,22/08/2026 17:04
+d6af1385-555b-4b3c-801d-a40ec9addb0c,kurdish.systems,available,11.98,47.48,medium,low,7,namecheap,,,22/08/2026 17:04
 69102406-d6cf-4643-82a6-6454fa71580a,propelling.systems,available,11.98,47.48,high,low,10,namecheap,,,09/09/2026 03:30
 7490b7dd-49f1-4220-a3e7-793a7c7e1ee5,bountiful.systems,available,11.98,47.48,high,low,9,namecheap,,,09/08/2026 20:52
 7348b326-957c-4d78-8bb1-7c757abd2057,clash.systems,available,21.99,,high,low,5,name.com,,,
 049728f7-5f2d-45c7-bd1b-4fd17200d651,backwash.systems,available,18.99,34.99,medium,low,8,namesilo,,,17/09/2026 15:44
+33eb3db6-863b-4308-ac66-fefae9640bc6,psychiatrist.systems,available,10.55,28.15,high,low,12,spaceship,,,27/09/2026 16:44
 f3d1c5da-382f-4454-8695-7ad15a7323fb,overladen.systems,available,11.98,47.48,medium,low,9,namecheap,,,04/09/2026 20:51
 e59e5e34-956d-4aef-95fc-2b6a746c6d18,doob.systems,available,11.98,47.48,medium,low,4,namecheap,,,21/09/2026 18:37
 656b7975-d012-42e5-ba5d-f1a170374978,assorted.systems,available,11.98,47.48,medium,low,8,namecheap,,,07/08/2026 07:25
@@ -23,11 +24,11 @@ fd844efc-9ade-4e53-9d99-2453766a67e1,sham.systems,available,11.98,47.48,medium,l
 15861dcc-1835-491a-901e-0296b948d9fb,mildness.systems,available,18.99,34.99,high,low,8,namesilo,,,24/09/2026 15:30
 a71f661c-0273-46a3-9039-8ebb41c2e521,nihilistic.systems,available,11.98,47.48,medium,low,10,namecheap,,,03/09/2026 17:24
 d152e027-f2f9-43e7-9f34-a3e9c3c6b26e,prosaic.systems,available,11.98,47.48,medium,low,7,namecheap,,,21/08/2026 15:08
-45e48294-1d8e-430c-8aee-c24c0136a92c,norwich.systems,available,11.98,47.48,high,low,7,namecheap,,,25/09/2026 14:43
+45e48294-1d8e-430c-8aee-c24c0136a92c,norwich.systems,available,11.98,47.48,medium,low,7,namecheap,,,25/09/2026 14:43
 21acbe5a-f7b9-4396-9384-6efa0f9f86b7,enraptured.systems,available,11.98,47.48,high,low,10,namecheap,,,14/08/2026 23:46
 8ce6777d-4003-41fb-adbc-6bd24feacad2,beverly.systems,available,11.98,47.48,high,low,7,namecheap,,,25/09/2026 21:21
 bb87f99c-5e17-44dd-bddd-440cee7becd8,straying.systems,available,11.98,47.48,medium,low,8,namecheap,,,10/09/2026 22:14
-ac9b9458-a336-4795-9b6c-8c682e0dc33f,esthetical.systems,available,11.98,47.48,high,low,10,namecheap,,,21/09/2026 21:22
+ac9b9458-a336-4795-9b6c-8c682e0dc33f,esthetical.systems,available,11.98,47.48,medium,low,10,namecheap,,,21/09/2026 21:22
 6fef870c-533d-4ae0-96b0-f8708deedfb8,tommyrot.systems,available,11.98,47.48,medium,low,8,namecheap,,,21/09/2026 23:53
 cd8f97a5-ec45-4511-99a7-c7d4c49c9073,vagabond.systems,available,11.98,47.48,high,low,8,namecheap,,,14/08/2026 19:16
 93d08789-8d19-4398-91d5-160a5d7f47d8,bascule.systems,available,11.98,47.48,medium,low,7,namecheap,,,22/09/2026 09:54
@@ -37,10 +38,11 @@ f235747e-bc98-4c99-9a99-8f091276bf2f,equivalent.systems,available,18.99,34.99,hi
 c1ab1054-c28e-4b77-97a2-60afec543066,mediaeval.systems,available,11.98,47.48,medium,low,9,namecheap,,,24/08/2026 18:49
 7162c842-182b-45b0-b306-a4687b76d8fb,pity.systems,available,18.99,34.99,high,low,4,namesilo,,,23/09/2026 16:56
 45916cc1-a3bc-41bd-bf3f-e1e18f1b94f6,cares.systems,available,18.99,34.99,medium,low,5,namesilo,,,27/09/2026 02:10
+c0541384-9fe2-4d6e-ad29-20a0c92977e2,johanna.systems,available,11.99,29.11,high,low,7,dynadot,,,28/09/2026 03:57
 bd17c6bd-78f7-42e5-9806-7516efc358a4,unlaced.systems,available,11.98,47.48,medium,low,7,namecheap,,,12/09/2026 14:37
 ffc727b9-6cea-4b0b-a4d9-5e71e593f950,pluperfect.systems,available,11.98,47.48,medium,low,10,namecheap,,,08/09/2026 22:00
 7f7582e3-78f7-4f83-b079-27124425d409,pitahaya.systems,available,18.99,34.99,medium,low,8,namesilo,,,16/09/2026 20:46
-34092b1e-5353-4a29-9d14-51e6eed3a161,tenable.systems,available,11.98,47.48,high,low,7,namecheap,,,11/09/2026 11:08
+34092b1e-5353-4a29-9d14-51e6eed3a161,tenable.systems,available,11.98,47.48,medium,low,7,namecheap,,,11/09/2026 11:08
 51290608-d660-42b5-adee-7a23a6c5b5ce,poured.systems,available,18.99,34.99,medium,low,6,namesilo,,,18/09/2026 02:28
 7e832943-d586-4697-974b-dd7576f627d8,fourteenth.systems,available,11.98,47.48,high,low,10,namecheap,,,
 3084c313-e3f0-4359-bd69-76714a70ad24,alir.systems,available,11.98,47.48,medium,low,4,namecheap,,,17/08/2026 22:11
@@ -49,23 +51,23 @@ b2685443-0940-449c-9cb2-ef1b9d898176,basinet.systems,available,18.99,34.99,mediu
 cf324ce3-b99e-4084-bc27-f5c784e6f690,chary.systems,available,11.98,47.48,medium,low,5,namecheap,,,12/08/2026 02:59
 bbce01ab-d9ea-4ea1-bc2a-bf9d90adbeb5,apium.systems,available,18.99,34.99,medium,low,5,namesilo,,,19/09/2026 17:32
 9fb4f803-dcdf-4fc4-8820-3e65e24c5f07,riant.systems,available,11.98,47.48,medium,low,5,namecheap,,,22/08/2026 20:55
-36f3c817-daf6-4f4a-8ce1-aa383c8ab505,parenteral.systems,available,11.98,47.48,high,low,10,namecheap,,,08/09/2026 01:19
+36f3c817-daf6-4f4a-8ce1-aa383c8ab505,parenteral.systems,available,11.98,47.48,medium,low,10,namecheap,,,08/09/2026 01:19
 ac9282fa-45bc-4c5c-b9eb-8c655155a091,adansonia.systems,available,18.99,34.99,medium,low,9,namesilo,,,17/09/2026 06:21
 3744f41b-f68e-4afe-bf8a-80233c9091be,aranyaka.systems,available,18.99,34.99,medium,low,8,namesilo,,,20/09/2026 00:08
 fcbd2971-992b-4808-81a3-d2e1b60d4585,treeless.systems,available,11.98,47.48,medium,low,8,namecheap,,,11/09/2026 19:10
 bddf3cfa-051c-42bd-adab-0bc7b61eab80,wafers.systems,available,18.99,34.99,medium,low,6,namesilo,,,20/09/2026 21:54
 b336ca5e-d814-4727-8124-679f3b677b2b,tatum.systems,available,18.99,34.99,high,low,5,namesilo,,,20/09/2026 10:00
-fbde73a1-cd99-4b4a-9803-0bd5da636f78,auricular.systems,available,11.98,47.48,high,low,9,namecheap,,,07/08/2026 17:46
+fbde73a1-cd99-4b4a-9803-0bd5da636f78,auricular.systems,available,11.98,47.48,medium,low,9,namecheap,,,07/08/2026 17:46
 a1820169-dbe6-4c7e-a07d-ceb54338d0ba,acetonic.systems,available,11.98,47.48,medium,low,8,namecheap,,,
-a01897da-b38e-4a5e-8cfc-875d99088b1d,unnumbered.systems,available,11.98,47.48,high,low,10,namecheap,,,13/08/2026 03:46
+a01897da-b38e-4a5e-8cfc-875d99088b1d,unnumbered.systems,available,11.98,47.48,medium,low,10,namecheap,,,13/08/2026 03:46
 c108655c-f81d-4c6b-8afb-a65659e8d00c,overcast.systems,available,11.98,47.48,high,low,8,namecheap,,,12/08/2026 12:29
-2459a40e-ad01-4dc8-afbe-bce87a38194d,russian.systems,available,21.99,,high,low,7,name.com,,,
+2459a40e-ad01-4dc8-afbe-bce87a38194d,russian.systems,available,11.98,47.48,high,low,7,namecheap,,,27/09/2026 17:35
 35f10d68-e5b9-43b3-bd56-1dfc970a1f0f,flippant.systems,available,11.98,47.48,medium,low,8,namecheap,,,18/08/2026 08:32
 fafbe2fb-3425-4874-a04c-2c0f95960682,uttermost.systems,available,11.98,47.48,high,low,9,namecheap,,,17/08/2026 22:44
 7d122d77-c82e-492d-a51e-fdcfae8ff85d,schematic.systems,available,11.98,47.48,high,low,9,namecheap,,,09/09/2026 23:02
 3f6871d5-be32-46f7-b75d-ecf50018d193,bethune.systems,available,11.98,47.48,medium,low,7,namecheap,,,23/09/2026 11:17
 f8765cfd-6641-48a1-9176-e1d2b2511a93,smoothen.systems,available,11.98,47.48,high,low,8,namecheap,,,08/09/2026 23:04
-bddbd649-94c9-4fb5-bdb5-81c05233cdcc,engines.systems,available,11.98,47.48,high,low,7,namecheap,,,19/09/2026 19:59
+bddbd649-94c9-4fb5-bdb5-81c05233cdcc,engines.systems,available,11.98,47.48,medium,low,7,namecheap,,,19/09/2026 19:59
 6c8064d6-01d0-44aa-9e59-12f9e756d00b,cryonic.systems,available,11.98,47.48,medium,low,7,namecheap,,,13/08/2026 09:37
 d70f2091-84ab-4e90-ab10-526dff6717a7,inaudible.systems,available,11.98,47.48,medium,low,9,namecheap,,,22/08/2026 00:33
 8dcb22d4-7963-4ed3-9bcc-5bca6d60fbfa,crayon.systems,available,11.98,47.48,high,low,6,namecheap,,,24/09/2026 19:11
@@ -90,7 +92,7 @@ ecea9998-f6c0-4dc1-b13e-7fac90f3f085,comes.systems,available,11.98,47.48,high,lo
 b1a59a79-a7f6-4a8f-97c8-92dca8771972,punter.systems,available,21.99,,medium,low,6,name.com,,,
 88c62f7b-2e20-4980-86cc-a1722030a5c8,forced.systems,available,21.99,45.99,high,low,6,name.com,,,23/09/2026 21:10
 6ca02fb7-52d4-427b-8579-8c6d9222a717,artaxerxes.systems,available,18.99,34.99,medium,low,10,namesilo,,,20/09/2026 10:06
-82847ea6-7cc8-416d-8e32-832c525f9653,gnostic.systems,available,11.98,47.48,high,low,7,namecheap,,,20/08/2026 15:47
+82847ea6-7cc8-416d-8e32-832c525f9653,gnostic.systems,available,11.98,47.48,medium,low,7,namecheap,,,20/08/2026 15:47
 1fb847b7-1c23-4891-a6d8-8e06234b2155,colombo.systems,available,21.99,,high,low,7,name.com,,,
 e6c676f8-030a-4f4d-a182-7403c2a6a780,hurrying.systems,available,11.98,47.48,medium,low,8,namecheap,,,21/08/2026 15:47
 c8146381-ea4b-4d7c-a49c-ef4d2cc33cb8,dominical.systems,available,11.98,47.48,medium,low,9,namecheap,,,14/08/2026 15:42
@@ -100,8 +102,8 @@ a26907be-ccae-4188-9166-9104a7d658e1,crepuscle.systems,available,11.98,47.48,med
 89ce28d8-2e89-457d-bb9f-6a507c3a3130,butterball.systems,available,11.98,47.48,medium,low,10,namecheap,,,17/08/2026 23:59
 58abdf6c-cc4a-4d67-9559-5ab685b524ae,american.systems,premium,78.54,78.54,high,low,8,namesilo,,,22/09/2026 04:09
 9c9f394b-6925-48c2-94e8-ce8c45f909ba,but.systems,available,11.98,47.48,high,low,3,namecheap,,,25/09/2026 12:23
-c0679702-76f5-4c45-bef6-c38b76e46fb0,imminent.systems,available,11.98,47.48,high,low,8,namecheap,,,21/08/2026 20:55
-7f4b20e9-eea9-4629-a487-3d55fc3ce534,reverting.systems,available,11.98,47.48,high,low,9,namecheap,,,09/09/2026 15:58
+c0679702-76f5-4c45-bef6-c38b76e46fb0,imminent.systems,available,11.98,47.48,medium,low,8,namecheap,,,21/08/2026 20:55
+7f4b20e9-eea9-4629-a487-3d55fc3ce534,reverting.systems,available,11.98,47.48,medium,low,9,namecheap,,,09/09/2026 15:58
 0ab16717-49f4-4dfe-8489-268d43f0344a,citizens.systems,available,18.99,34.99,high,low,8,namesilo,,,18/09/2026 15:13
 b86bb279-95e3-4a9b-a307-bedf73f2e236,negotiable.systems,available,11.98,47.48,medium,low,10,namecheap,,,07/08/2026 06:30
 ec65a978-6a9a-4c36-b91d-2855d683ba4f,released.systems,available,21.99,,medium,low,8,name.com,,,
@@ -115,10 +117,11 @@ a1658468-0ba1-434b-84dd-2b9d097d9ccb,coffeeman.systems,available,21.99,,high,low
 3ecb9ab4-0197-41f8-852c-bc1d91bb1e43,spiffy.systems,available,21.99,45.99,high,low,6,name.com,,,13/08/2026 17:36
 8c2e121d-5002-49ec-b1c1-44f644a11057,twiggy.systems,available,11.98,47.48,medium,low,6,namecheap,,,11/09/2026 21:34
 29abce02-0702-417b-b258-b31325d8c01a,obscenity.systems,available,18.99,34.99,medium,low,9,namesilo,,,22/09/2026 16:47
+9afd7165-520e-4ca8-b5f2-ddbd10b00f7a,gut.systems,available,10.55,28.15,high,low,3,spaceship,,,28/09/2026 01:05
 8200249c-6e74-405b-9983-26430efcb8a8,wagon.systems,available,21.99,,high,low,5,name.com,,,
 82a2e900-fc3a-43e7-b477-993a2e69ddc0,culpable.systems,available,11.98,47.48,medium,low,8,namecheap,,,10/08/2026 12:34
-f533ebd3-5b69-4bd7-974e-a376f7f959df,culturally.systems,available,11.98,47.48,high,low,10,namecheap,,,14/09/2026 09:57
-61d1fb44-359b-478c-9097-25540f1de400,acetate.systems,available,11.98,47.48,high,low,7,namecheap,,,17/09/2026 00:03
+f533ebd3-5b69-4bd7-974e-a376f7f959df,culturally.systems,available,11.98,47.48,medium,low,10,namecheap,,,14/09/2026 09:57
+61d1fb44-359b-478c-9097-25540f1de400,acetate.systems,available,11.98,47.48,medium,low,7,namecheap,,,17/09/2026 00:03
 845e09fb-97de-49f1-bb70-ec0fdf120cb0,seasonal.systems,available,11.98,47.48,high,low,8,namecheap,,,10/09/2026 00:58
 9268220d-a879-4699-9593-f908bc59da0d,inflected.systems,available,11.98,47.48,medium,low,9,namecheap,,,22/08/2026 04:31
 7c244987-eb88-41ef-ad66-15c96735ab1a,youngest.systems,available,21.99,,high,low,8,name.com,,,
@@ -127,10 +130,10 @@ f533ebd3-5b69-4bd7-974e-a376f7f959df,culturally.systems,available,11.98,47.48,hi
 e36b415a-62b9-4423-a2a2-05ec37d5531d,rated.systems,available,21.99,,high,low,5,name.com,,,
 ba7bc176-90fe-42d1-b5b0-ab1a62b4a8ab,treelike.systems,available,11.98,47.48,medium,low,8,namecheap,,,06/08/2026 14:01
 b6f3dba5-4a94-4e1d-8611-d519df2da641,mouthcare.systems,available,21.99,,medium,low,9,name.com,,,
-313634c4-e3a0-40e0-97ae-47cf913d84ff,amide.systems,available,11.98,47.48,high,low,5,namecheap,,,18/09/2026 21:35
+313634c4-e3a0-40e0-97ae-47cf913d84ff,amide.systems,available,11.98,47.48,medium,low,5,namecheap,,,18/09/2026 21:35
 93b61f85-f6b4-4a3b-b2d9-0021b6b44be1,yesterday.systems,available,21.99,,high,low,9,name.com,,,
 5bcfe0f9-b9d3-43f8-89a6-b982cd002160,bodyguard.systems,available,18.99,34.99,high,low,9,namesilo,,,24/09/2026 06:33
-25aadfdd-4b3e-4c04-82ce-0b952c431c99,harmsworth.systems,available,18.99,34.99,high,low,10,namesilo,,,18/09/2026 06:27
+25aadfdd-4b3e-4c04-82ce-0b952c431c99,harmsworth.systems,available,18.99,34.99,medium,low,10,namesilo,,,18/09/2026 06:27
 c38036a8-e78f-4a54-aa06-96935a8bbefd,rightly.systems,available,11.98,47.48,high,low,7,namecheap,,,15/09/2026 10:16
 a1f294c0-5386-4204-bb7b-482010d6c382,antilles.systems,available,18.99,34.99,medium,low,8,namesilo,,,19/09/2026 14:37
 b2da1c3e-d2fd-4341-970b-db4dfbe8a5a2,wished.systems,available,11.98,47.48,medium,low,6,namecheap,,,17/09/2026 18:39
@@ -142,17 +145,17 @@ a42fa09e-7072-4125-bfdd-7eb0f3631dba,souls.systems,available,21.99,,high,low,5,n
 d41c2e98-935c-4c0c-be80-0eed727d9ac7,anergy.systems,available,18.99,34.99,medium,low,6,namesilo,,,19/09/2026 05:29
 01d551c7-1b77-478e-8397-7f635f5a4d71,plane.systems,resell,,,high,low,5,united-domains GmbH,01/06/2024 08:46,01/06/2027 08:46,26/09/2026 08:11
 b3f540fd-a2cd-496d-abe8-153915f0c22e,involving.systems,available,21.99,,medium,low,9,name.com,,,
-58ef5eef-e5ae-4b04-ad4e-128e29f34ff2,agitated.systems,available,11.98,47.48,high,low,8,namecheap,,,
+58ef5eef-e5ae-4b04-ad4e-128e29f34ff2,agitated.systems,available,11.98,47.48,medium,low,8,namecheap,,,
 2831764a-ca14-4f15-95d9-86c00b3f0175,orchis.systems,available,18.99,34.99,medium,low,6,namesilo,,,21/09/2026 23:07
 ae8d0eef-7438-4f23-9589-464b81a967fc,hereabouts.systems,available,11.98,47.48,medium,low,10,namecheap,,,15/09/2026 00:20
 78443014-7385-45d7-b8f0-adc6017d38e9,contents.systems,available,21.99,,high,low,8,name.com,,,
 80c14acc-2cbe-4b23-a797-f5031696d541,desirous.systems,available,11.98,47.48,medium,low,8,namecheap,,,14/08/2026 03:49
-ec34e644-1e25-4299-936a-74e004cd3209,crap.systems,available,21.99,,high,low,4,name.com,,,
+ec34e644-1e25-4299-936a-74e004cd3209,crap.systems,available,21.99,,medium,low,4,name.com,,,
 e1421a1b-0f38-4bc1-a189-d7e301373ac0,frosty.systems,available,11.98,47.48,high,low,6,namecheap,,,18/08/2026 16:26
 ed271829-3338-4e7a-ba71-529dd27bf2a8,spectral.systems,available,11.98,47.48,high,low,8,namecheap,,,06/08/2026 05:38
 fb4af062-230a-4631-95a8-02f34385612e,sugarless.systems,available,11.98,47.48,medium,low,9,namecheap,,,19/09/2026 15:11
 ca7bfdf1-b237-4d80-8c40-13b5936553c2,dazzled.systems,available,21.99,45.99,medium,low,7,name.com,,,13/08/2026 18:57
-7f5956f5-8bf4-4f51-8cb9-c831498f7037,begonia.systems,available,18.99,34.99,high,low,7,namesilo,,,23/09/2026 02:28
+7f5956f5-8bf4-4f51-8cb9-c831498f7037,begonia.systems,available,18.99,34.99,medium,low,7,namesilo,,,23/09/2026 02:28
 8e62da7a-a73a-4650-9690-f547719e9a91,amiably.systems,available,11.98,47.48,medium,low,7,namecheap,,,13/09/2026 17:50
 87f90f29-bea9-49cd-82ef-1f6ac7bfe961,unaged.systems,available,11.98,47.48,medium,low,6,namecheap,,,12/09/2026 00:11
 3c81a3a2-9ca6-4897-8029-d38a03e2e700,criminal.systems,available,11.98,47.48,high,low,8,namecheap,,,23/09/2026 19:22
@@ -179,7 +182,7 @@ ab2f93af-4f8b-4b73-b646-56dd8a243a97,scalene.systems,available,11.98,47.48,mediu
 1dbc5fe5-b827-4288-b9d8-274e72ed4759,anybody.systems,available,21.99,,medium,low,7,name.com,,,
 eb30366d-20fe-4ca1-97e1-c6e372f48284,miniature.systems,available,11.98,47.48,high,low,9,namecheap,,,24/08/2026 23:48
 89ec7a0d-24bf-4c4c-b804-6f18dfebde33,fucksome.systems,available,21.99,,low,low,8,name.com,,,
-71eeb8a6-ca00-4488-90a9-df25ae26a97e,aquitaine.systems,available,18.99,34.99,high,low,9,namesilo,,,19/09/2026 23:17
+71eeb8a6-ca00-4488-90a9-df25ae26a97e,aquitaine.systems,available,18.99,34.99,medium,low,9,namesilo,,,19/09/2026 23:17
 bc4c3302-9109-4caa-800a-53d5ed3a625b,endowment.systems,available,21.99,,high,low,9,name.com,,,
 6a46df4b-b9b5-4db0-98d8-abc951fa2220,tinny.systems,available,11.98,47.48,medium,low,5,namecheap,,,11/08/2026 09:06
 3f969fcf-1f11-464d-811f-d8ca57c9ed14,boaster.systems,available,11.98,47.48,medium,low,7,namecheap,,,11/08/2026 01:18
@@ -197,11 +200,12 @@ fa61b36d-9740-4c0c-8592-b17b8bd95c87,removed.systems,available,18.99,34.99,high,
 b36f1e38-e298-4e1f-b0de-b60efcaeb6f8,altogether.systems,available,11.98,47.48,high,low,10,namecheap,,,
 5904ce8a-e00b-4557-b04f-1c1274c55052,ravenous.systems,available,11.98,47.48,medium,low,8,namecheap,,,15/08/2026 06:13
 dc5b1c97-054e-4bb5-820a-6295544433ee,chances.systems,available,18.99,34.99,medium,low,7,namesilo,,,25/09/2026 16:56
-9c895e7c-5ae9-4d88-86f8-d4c3971a775d,reversed.systems,available,21.99,,high,low,8,name.com,,,
+9c895e7c-5ae9-4d88-86f8-d4c3971a775d,reversed.systems,available,27.2,27.2,high,low,8,cloudflare,,,27/09/2026 14:11
 cceef37d-df5b-4797-9299-007c3e1ff64a,kerensky.systems,available,11.98,47.48,high,low,8,namecheap,,,18/09/2026 05:02
 83a55802-53df-4188-bc85-571ef82c986e,outfitted.systems,available,11.98,47.48,high,low,9,namecheap,,,04/09/2026 19:24
 2b682dd0-19a9-4d21-b689-e85a3855970e,legibility.systems,available,18.99,34.99,high,low,10,namesilo,,,24/09/2026 22:31
 e97a5936-5b06-4ca1-993b-53a596be8bee,mangled.systems,available,11.98,47.48,medium,low,7,namecheap,,,24/08/2026 14:53
+54a3ec59-54a1-4e49-b3ac-d3fd824fd36f,lieutenant.systems,available,18.99,34.99,high,low,10,namesilo,,,28/09/2026 02:16
 4f9891a8-37b8-4566-81be-5f6b7af471c7,benzene.systems,available,11.98,47.48,high,low,7,namecheap,,,23/09/2026 08:52
 9bb58b5d-86f1-408c-a89e-eb9f9c26d4c3,fruitfully.systems,available,11.98,47.48,high,low,10,namecheap,,,14/09/2026 20:27
 af506322-c752-425d-b891-17af5ca7bd52,introduction.systems,available,21.99,,high,low,12,name.com,,,
@@ -210,9 +214,9 @@ af506322-c752-425d-b891-17af5ca7bd52,introduction.systems,available,21.99,,high,
 4c4d8cf9-4b41-460d-82af-fd5901ccaa2f,introductions.systems,available,18.99,34.99,medium,low,13,namesilo,,,20/09/2026 22:09
 befa7038-ef7b-44a8-989f-a67d0ce14abd,paperback.systems,available,18.99,34.99,high,low,9,namesilo,,,27/09/2026 02:40
 93d6f4c7-9a89-4f41-9154-51089b644fee,quintet.systems,available,11.98,47.48,high,low,7,namecheap,,,
-ff6b00e3-2ffb-4363-9697-5d1e742e3b06,undetected.systems,available,11.98,47.48,high,low,10,namecheap,,,12/09/2026 07:57
+ff6b00e3-2ffb-4363-9697-5d1e742e3b06,undetected.systems,available,11.98,47.48,medium,low,10,namecheap,,,12/09/2026 07:57
 85451731-4541-4f86-a5fd-eba9f531404f,anomic.systems,available,11.98,47.48,low,low,6,namecheap,,,
-cd457d7b-5a91-4b0d-8426-c7aef35440e9,casually.systems,available,11.98,47.48,high,low,8,namecheap,,,14/09/2026 05:25
+cd457d7b-5a91-4b0d-8426-c7aef35440e9,casually.systems,available,11.98,47.48,medium,low,8,namecheap,,,14/09/2026 05:25
 8944f1e1-f6bf-4644-ae17-3aabfcd7e9d6,uninformed.systems,available,11.98,47.48,medium,low,10,namecheap,,,12/09/2026 13:22
 18f44a95-fcb9-41e7-9c1e-dcfbebc81fbf,batten.systems,available,18.99,34.99,medium,low,6,namesilo,,,22/09/2026 14:27
 54aaa612-8515-4b1d-ad5b-aee42689aae9,writes.systems,available,11.98,47.48,medium,low,6,namecheap,,,17/09/2026 14:27
@@ -228,7 +232,7 @@ c278567f-3550-4570-b3e6-1e9e8476d179,afterbirth.systems,available,18.99,34.99,me
 39911502-d02b-4ec6-a9bd-23f26581effc,lapsing.systems,available,11.98,47.48,medium,low,7,namecheap,,,09/09/2026 16:15
 b820e540-3f0e-4a6f-b600-64f55228ab8c,abasia.systems,available,18.99,34.99,medium,low,6,namesilo,,,16/09/2026 14:05
 694c4048-b2fb-476f-a33f-2b71326e4cab,coffin.systems,available,21.99,,medium,low,6,name.com,,,
-27443f98-4f05-484f-bafc-6b85023923ac,asker.systems,available,11.98,47.48,high,low,5,namecheap,,,20/09/2026 14:27
+27443f98-4f05-484f-bafc-6b85023923ac,asker.systems,available,11.98,47.48,medium,low,5,namecheap,,,20/09/2026 14:27
 22292fb6-2e01-4ac4-8baf-39d78ab36c57,slur.systems,available,11.98,47.48,medium,low,4,namecheap,,,20/09/2026 14:59
 d7a19e29-cef2-4530-89d7-79f3f4b546a2,efferent.systems,available,11.98,47.48,high,low,8,namecheap,,,15/08/2026 14:22
 803a27fc-eecb-468b-84ce-6673e74348d3,sheepdog.systems,available,21.99,,high,low,9,name.com,,,
@@ -240,7 +244,7 @@ e9dca94d-7419-4362-b15b-5c8c4b5194c2,haircut.systems,available,21.99,,high,low,7
 12799a59-70f7-4a93-a3ef-2ba45f6e7cc8,smashingly.systems,available,11.98,47.48,medium,low,10,namecheap,,,16/09/2026 02:49
 9f0c2028-9028-413d-a6ad-60d9b8f727df,auxesis.systems,available,18.99,34.99,medium,low,7,namesilo,,,21/09/2026 08:33
 8c385268-250c-4665-bfe8-85ffe5127968,violently.systems,available,18.99,34.99,medium,low,9,namesilo,,,16/09/2026 11:00
-2fccf3bf-7da8-4cd1-863b-1a8b44ff3c37,necessarily.systems,available,21.99,,high,low,11,name.com,,,
+2fccf3bf-7da8-4cd1-863b-1a8b44ff3c37,necessarily.systems,available,21.99,,medium,low,11,name.com,,,
 a95ac591-00b9-4a00-9191-64d073c4f7be,oafish.systems,available,11.98,47.48,medium,low,6,namecheap,,,10/08/2026 19:32
 201d044e-41f8-4f46-a4ad-f921c2a549fb,cyprinid.systems,available,21.99,45.99,medium,low,8,name.com,,,13/08/2026 14:27
 66c87f28-9fb1-4232-a303-bc517f383f84,amoy.systems,available,18.99,34.99,medium,low,4,namesilo,,,18/09/2026 23:05
@@ -259,8 +263,8 @@ ed585499-1178-4781-bbd6-628fd09cd0f3,feminism.systems,available,21.99,,high,low,
 c5205c17-caa2-4450-a3c4-43ce0d91656c,teaser.systems,available,18.99,34.99,high,low,6,namesilo,,,19/09/2026 10:50
 a1524cf7-22a1-48a2-b142-183f1a7f3033,baya.systems,available,11.98,47.48,medium,low,4,namecheap,,,22/09/2026 17:54
 194e0aaa-a0cc-4d65-b5dc-2e9a31e1efca,ballyrag.systems,available,11.98,47.48,medium,low,8,namecheap,,,11/08/2026 08:57
-85ec3614-851f-4bae-8284-808af7878f4a,alsace.systems,available,18.99,34.99,high,low,6,namesilo,,,18/09/2026 14:15
-d508d70e-aac0-4676-95b5-fdfd14fb3657,clastic.systems,available,11.98,47.48,high,low,7,namecheap,,,12/08/2026 09:56
+85ec3614-851f-4bae-8284-808af7878f4a,alsace.systems,available,18.99,34.99,medium,low,6,namesilo,,,18/09/2026 14:15
+d508d70e-aac0-4676-95b5-fdfd14fb3657,clastic.systems,available,11.98,47.48,medium,low,7,namecheap,,,12/08/2026 09:56
 22a6c412-f707-4d3a-b560-c698e94ae220,wars.systems,available,11.98,47.48,medium,low,4,namecheap,,,18/09/2026 16:04
 9d829e00-5487-47ba-85a5-24166daa2dfc,indecent.systems,available,18.99,34.99,medium,low,8,namesilo,,,25/09/2026 09:06
 13795bf8-1b1e-4ecd-a651-4fe2d72bd2ed,derivable.systems,available,11.98,47.48,medium,low,9,namecheap,,,14/08/2026 03:00
@@ -272,24 +276,24 @@ b6daf140-54ce-4f89-ab2d-826e025e1a49,crosspatch.systems,available,11.98,47.48,me
 c581e5d9-bfc0-4c46-ac17-201335dc4400,easterly.systems,available,11.98,47.48,medium,low,8,namecheap,,,14/08/2026 22:51
 a94e11be-8758-4e8f-823b-90e376ee73fc,inharmonic.systems,available,11.98,47.48,low,low,10,namecheap,,,14/08/2026 10:54
 c33e90a2-6bde-40ee-8ba9-dbbf739cb65e,punctured.systems,available,11.98,47.48,medium,low,9,namecheap,,,08/09/2026 16:56
-0fa0a8f0-effb-462b-83f7-309f36215f75,officials.systems,available,18.99,34.99,high,low,9,namesilo,,,17/09/2026 12:28
+0fa0a8f0-effb-462b-83f7-309f36215f75,officials.systems,available,18.99,34.99,medium,low,9,namesilo,,,17/09/2026 12:28
 66380795-50f7-4b59-bdc6-ed87ddb6a455,presentation.systems,available,21.99,,high,low,12,name.com,,,
 8530eec7-5bed-417b-b116-f8e3aeb0dfc1,libidinous.systems,available,11.98,47.48,medium,low,10,namecheap,,,22/08/2026 20:09
 9f6f5a13-7b20-4507-b0c8-db789d45e881,osmium.systems,available,18.99,34.99,medium,low,6,namesilo,,,20/09/2026 23:48
 726401dd-3d27-4802-8480-5c70dd8bbdf9,cleverness.systems,available,11.98,47.48,high,low,10,namecheap,,,24/09/2026 15:36
 18dd9650-f8ee-443b-9736-76531736becf,attire.systems,available,18.99,34.99,high,low,6,namesilo,,,21/09/2026 01:52
-25416f54-672d-4e25-bd03-8e07c1d7f1ae,landscaped.systems,available,11.98,47.48,high,low,10,namecheap,,,22/08/2026 19:30
+25416f54-672d-4e25-bd03-8e07c1d7f1ae,landscaped.systems,available,11.98,47.48,medium,low,10,namecheap,,,22/08/2026 19:30
 ea45d84c-d3e5-4952-a5f3-a35cc7cc8422,bsarch.systems,available,18.99,34.99,medium,low,6,namesilo,,,21/09/2026 14:16
 bb9c9187-69ab-4a5d-a403-d6e48e909c4a,scarred.systems,available,18.99,34.99,medium,low,7,namesilo,,,25/09/2026 17:02
 3ff14397-2f27-48d2-96fd-d14c53a5e2b9,unsaved.systems,available,11.98,47.48,medium,low,7,namecheap,,,12/09/2026 17:57
 aa076cad-0341-4f04-8cc1-105efcbbb029,curricular.systems,available,11.98,47.48,high,low,10,namecheap,,,13/08/2026 11:29
 b8157bf6-6b0e-460a-a6b1-1ab3643822b8,usda.systems,available,11.98,47.48,high,low,4,namecheap,,,17/09/2026 19:25
-e223d0c5-f6df-429f-bb10-59116f51cc15,geriatric.systems,available,11.98,47.48,high,low,9,namecheap,,,18/08/2026 22:42
+e223d0c5-f6df-429f-bb10-59116f51cc15,geriatric.systems,available,11.98,47.48,medium,low,9,namecheap,,,18/08/2026 22:42
 99d354dc-89ff-4fac-985f-50a7a2132c0a,testis.systems,available,21.99,45.99,high,low,6,name.com,,,21/09/2026 22:59
 847ba8af-ee05-4365-a17a-cbec670482db,predilection.systems,available,21.99,,high,low,12,name.com,,,
 5b5da8e1-2783-4947-b2f7-253f48b35903,bimonthly.systems,available,11.98,47.48,high,low,9,namecheap,,,09/08/2026 22:42
 4ba31309-049a-4342-b3a9-b9b64316be4b,billiards.systems,available,18.99,34.99,high,low,9,namesilo,,,23/09/2026 16:23
-4021a855-e667-45c5-91ed-1e0f38a18b39,ragweed.systems,available,11.98,47.48,high,low,7,namecheap,,,23/09/2026 08:50
+4021a855-e667-45c5-91ed-1e0f38a18b39,ragweed.systems,available,11.98,47.48,medium,low,7,namecheap,,,23/09/2026 08:50
 5b137b5d-a502-4dbf-a9c0-7d9cc0ffb0ee,unplug.systems,available,21.99,,high,low,6,name.com,,,
 01893c09-fb08-4027-979d-490e5eff94ce,betterment.systems,available,11.98,47.48,high,low,10,namecheap,,,18/09/2026 18:20
 420ee771-75f6-4f9e-b8ca-27adf6a55401,teaspoons.systems,available,18.99,34.99,medium,low,9,namesilo,,,19/09/2026 22:48
@@ -314,7 +318,7 @@ a11b29df-aab3-4504-8297-10dfb8915de9,weaponry.systems,available,18.99,34.99,high
 2d176b40-2250-4d75-91f6-bc48d0e643d8,unwashed.systems,available,11.98,47.48,medium,low,8,namecheap,,,08/09/2026 21:02
 fecd8b54-ef25-494c-bc53-306c00fc14a6,fact.systems,available,21.99,,high,low,4,name.com,,,
 5b24b1c6-09ec-4b09-b782-439d88decaa0,biweekly.systems,available,11.98,47.48,high,low,8,namecheap,,,10/08/2026 09:30
-21bbf5c0-625b-4a62-8298-29e266f5f159,sudden.systems,available,21.99,,high,low,6,name.com,,,
+21bbf5c0-625b-4a62-8298-29e266f5f159,sudden.systems,available,18,,high,low,6,unstoppable,,,28/09/2026 01:51
 bf4bda6d-df35-4131-bfb1-39f920ee7187,childish.systems,available,11.98,47.48,high,low,8,namecheap,,,12/08/2026 05:02
 52505944-1859-4e61-be17-7b74c9c3e0d1,sunup.systems,available,11.98,47.48,high,low,5,namecheap,,,11/09/2026 02:09
 f5c35aaa-717b-4677-b37b-0fbd11adb889,apocope.systems,available,11.98,47.48,medium,low,7,namecheap,,,19/09/2026 18:11
@@ -322,6 +326,7 @@ f5c35aaa-717b-4677-b37b-0fbd11adb889,apocope.systems,available,11.98,47.48,mediu
 0bad0961-3bda-4c24-9d31-eb791b6f8362,plucked.systems,available,11.98,47.48,medium,low,7,namecheap,,,08/09/2026 21:28
 15fecc0b-dec6-46aa-9106-561a04ebe07b,caller.systems,available,11.98,47.48,high,low,6,namecheap,,,11/08/2026 14:28
 a188d586-9124-4149-be1a-756b3bd6bfa7,biloxi.systems,available,18.99,34.99,high,low,6,namesilo,,,23/09/2026 16:52
+3182392a-236b-41c0-911b-384321da1bc8,pregnancy.systems,available,18,,high,low,9,unstoppable,,,28/09/2026 02:22
 5a7f994e-380c-4d92-a18f-4fc84eda956b,projecting.systems,available,11.98,47.48,high,low,10,namecheap,,,22/08/2026 14:48
 90aede61-a355-47d1-b82e-9bdfab2a10f9,companies.systems,available,18.99,34.99,high,low,9,namesilo,,,23/09/2026 07:33
 92aed4d0-794c-42db-8f77-457ae1dd846e,accessories.systems,available,18.99,34.99,medium,low,11,namesilo,,,25/09/2026 02:50
@@ -341,21 +346,23 @@ a35d80db-d3a4-468a-a820-384d1940e86a,eleventh.systems,available,,,high,low,8,,,,
 3049255f-faac-431e-8482-098a3035db93,genuine.systems,available,18.99,34.99,high,low,7,namesilo,,,24/09/2026 13:20
 cf02fb32-2bba-4858-8d1f-dcb32dd2fdbf,sporadic.systems,available,11.98,47.48,medium,low,8,namecheap,,,10/09/2026 16:29
 d7b9e353-ba83-4803-82e4-0732d8c016d4,explicit.systems,available,11.98,47.48,high,low,8,namecheap,,,17/08/2026 18:24
-b42b4c1c-9f78-451b-bc0e-16a7447afc24,cat.systems,available,,,high,high,3,,,,
 ace9e570-879a-4485-9fc7-89e0f7f70d95,karpov.systems,available,18.99,34.99,high,low,6,namesilo,,,19/09/2026 03:27
 3f200d64-ab17-4941-93e2-8b33bb5683b4,aventurine.systems,available,11.98,47.48,medium,low,10,namecheap,,,21/09/2026 09:07
-12137624-e9a8-4977-8cd9-eec5c1f0ceef,adjuvant.systems,available,11.98,47.48,high,low,8,namecheap,,,
+12137624-e9a8-4977-8cd9-eec5c1f0ceef,adjuvant.systems,available,11.98,47.48,medium,low,8,namecheap,,,
 607cf0f6-156f-4f4d-bd35-a0663ca3fb64,prodigious.systems,available,11.98,47.48,high,low,10,namecheap,,,12/08/2026 17:58
+f544475e-bd47-4937-9a75-7240e6aa2131,mankind.systems,available,18.99,34.99,high,low,7,namesilo,,,28/09/2026 02:08
 8b6d01ff-a8dc-4003-a96f-6270f21c99b7,rubinstein.systems,available,18.99,34.99,medium,low,10,namesilo,,,19/09/2026 15:30
 307406e7-5486-4337-8120-b714a491cba6,joaquin.systems,available,18.99,34.99,medium,low,7,namesilo,,,25/09/2026 16:17
-a0535396-96bd-419d-bd20-c0b3fabce032,singsong.systems,available,11.98,47.48,high,low,8,namecheap,,,12/08/2026 02:09
+a0535396-96bd-419d-bd20-c0b3fabce032,singsong.systems,available,11.98,47.48,medium,low,8,namecheap,,,12/08/2026 02:09
 ae23b16d-c3ba-4274-9ef2-7425d92ec0d3,always.systems,available,21.99,,high,low,6,name.com,,,
 22950104-477f-48d0-8e97-d12bdb7bc3b5,guard.systems,premium,500,,high,low,5,name.com,,,
 29c7cb79-cd9f-42a2-8743-f4cfb7ecb831,blinking.systems,available,18.99,34.99,high,low,8,namesilo,,,22/09/2026 21:58
 8f43b272-f2ea-4b67-8724-bd05529ed06a,auxin.systems,available,18.99,34.99,medium,low,5,namesilo,,,21/09/2026 08:33
+a5e66741-2737-46a3-8113-8523978ecea4,casualties.systems,available,11.84,28.32,medium,low,10,porkbun,,,27/09/2026 21:53
 a56562a9-371d-4a8a-9603-1f73cfbf3282,polyatomic.systems,available,11.98,47.48,medium,low,10,namecheap,,,08/09/2026 23:10
 5b3cc5eb-09b3-4143-8c23-2ffc7c0cd1a9,when.systems,available,21.99,,high,low,4,name.com,,,
 d5017dd5-cc44-4129-8e28-809969f4b40b,asunder.systems,available,11.98,47.48,medium,low,7,namecheap,,,07/08/2026 10:20
+ffb9ab55-bbec-4c1d-9c6e-44172795f471,invention.systems,available,19.99,59.99,high,low,9,godaddy,,,28/09/2026 02:09
 2d61b5c8-f368-4d71-89a0-81a8e630f703,alcohols.systems,available,11.98,47.48,medium,low,8,namecheap,,,20/09/2026 18:31
 3754c9df-03be-4894-b95e-78283989770a,bevy.systems,available,18.99,34.99,medium,low,4,namesilo,,,23/09/2026 12:05
 ab34f23b-91d2-4229-bb7b-586b4b57cb75,advised.systems,available,18.99,34.99,high,low,7,namesilo,,,23/09/2026 07:10
@@ -365,7 +372,7 @@ ad989f39-d03c-4449-b4bc-c8ee52fad7c2,rotund.systems,available,11.98,47.48,medium
 3ac8f704-010e-4220-b785-eff9bfcf1c54,distrust.systems,available,11.98,47.48,high,low,8,namecheap,,,24/09/2026 23:13
 79bf799a-2189-4d9d-956f-470459d84a02,encircled.systems,available,11.98,47.48,medium,low,9,namecheap,,,16/08/2026 22:19
 082868f5-73f6-4f0c-b0a9-6c79f8e134e2,blanched.systems,available,11.98,47.48,medium,low,8,namecheap,,,07/08/2026 02:14
-529f2ba5-e071-4542-94de-e67773b17e15,auxetic.systems,available,11.98,47.48,high,low,7,namecheap,,,07/08/2026 21:28
+529f2ba5-e071-4542-94de-e67773b17e15,auxetic.systems,available,11.98,47.48,medium,low,7,namecheap,,,07/08/2026 21:28
 9f8cb760-a9e6-4dc7-832d-0f0f331a6a95,integrally.systems,available,11.98,47.48,high,low,10,namecheap,,,15/09/2026 08:51
 ccdf428e-3cc2-41cf-85df-a001621269ff,hobart.systems,available,18.99,34.99,high,low,6,namesilo,,,25/09/2026 07:24
 8773e26a-3c3b-4854-9139-a47e065a962a,advisement.systems,available,18.99,34.99,high,low,10,namesilo,,,17/09/2026 11:32
@@ -393,16 +400,18 @@ bd94f10f-227e-4b5b-a72f-21a8ad58df4b,nominated.systems,available,11.98,47.48,hig
 25c42716-69eb-472b-971c-538f9b2e999b,brisken.systems,available,11.98,47.48,medium,low,7,namecheap,,,11/08/2026 04:39
 fd1ccdae-3e6d-4dd0-b1eb-2e4c3aa80258,bakelite.systems,available,11.98,47.48,medium,low,8,namecheap,,,21/09/2026 20:15
 ae133ee0-416b-42a9-a086-64649907c314,forester.systems,available,11.98,47.48,medium,low,8,namecheap,,,20/09/2026 00:50
+2cb46030-70fa-4f27-b8e0-1ee78df1cbff,offers.systems,available,18.99,34.99,high,low,6,namesilo,,,27/09/2026 23:51
 7aa456bb-4a31-4b0d-8b52-08464ed3d5b5,oily.systems,available,11.98,47.48,medium,low,4,namecheap,,,11/08/2026 11:42
 78624af4-c63b-4974-b900-eec4a788ad4d,xxxviii.systems,available,11.98,47.48,medium,low,7,namecheap,,,
 440f181d-e21a-42df-92df-692c51cd2a34,cuttable.systems,available,11.98,47.48,medium,low,8,namecheap,,,12/08/2026 04:30
 7d4abc39-ea47-4fce-9000-ff206e142d51,masked.systems,available,11.98,47.48,high,low,6,namecheap,,,12/08/2026 11:32
 15393dd2-7490-4114-a6f5-c05336fbbb2a,obadiah.systems,available,11.98,47.48,medium,low,7,namecheap,,,16/09/2026 14:40
 18badb2d-ad06-47ed-80f9-7ceea0c264ec,antinomy.systems,available,11.98,47.48,medium,low,8,namecheap,,,19/09/2026 14:49
-fd454f97-ccd2-46c8-b09d-1ef62f1aebe8,intimately.systems,available,11.98,47.48,high,low,10,namecheap,,,15/09/2026 09:03
+fd454f97-ccd2-46c8-b09d-1ef62f1aebe8,intimately.systems,available,11.98,47.48,medium,low,10,namecheap,,,15/09/2026 09:03
 e7afffae-6a12-4765-945b-af0ed09f45cf,oddly.systems,available,21.99,,medium,low,5,name.com,,,
 aea61ffa-c149-4477-ab7b-7ac38881d042,relatives.systems,available,18.99,34.99,medium,low,9,namesilo,,,27/09/2026 10:25
 8f065553-8b41-4dbc-807d-bb891664edd3,soiled.systems,available,11.98,47.48,medium,low,6,namecheap,,,14/08/2026 09:10
+ea09d307-3526-4152-936f-47b5936f3c9b,marrying.systems,available,27.2,27.2,high,low,8,cloudflare,,,27/09/2026 17:47
 deb00633-40a9-40dc-92f2-eb39e27b90db,cinema.systems,resell,,,high,low,6,united-domains GmbH,19/03/2014 16:00,19/03/2027 16:00,26/09/2026 04:56
 e8e8a3e1-fce4-4cc3-ad24-1de7fc83089d,collecting.systems,available,18.99,34.99,high,low,10,namesilo,,,20/09/2026 16:02
 3302a191-4a35-4857-a011-cfda55df974a,ketosis.systems,available,18.99,34.99,medium,low,7,namesilo,,,17/09/2026 00:11
@@ -453,11 +462,12 @@ aad2ec4a-7a2b-4aff-b968-3a23675af5d8,hardship.systems,available,11.98,47.48,high
 6c7ee8c8-2229-4522-85d4-f5fa446171cb,annoyed.systems,available,18.99,34.99,medium,low,7,namesilo,,,22/09/2026 05:18
 83791dda-f96e-485c-b33f-db33177c9ce8,unmade.systems,available,11.98,47.48,medium,low,6,namecheap,,,12/09/2026 15:15
 3a909ef2-8788-456c-ab6f-6e891abd0fa0,offspring.systems,available,21.99,,high,low,9,name.com,,,
-42ae1f99-fec6-4090-b56b-9ec1dabc000d,uruguayan.systems,available,11.98,47.48,high,low,9,namecheap,,,12/09/2026 23:55
+90c5804b-883c-4a5d-a2d4-bcdac7e96722,virgil.systems,available,10.55,28.15,high,low,6,spaceship,,,28/09/2026 02:58
+42ae1f99-fec6-4090-b56b-9ec1dabc000d,uruguayan.systems,available,11.98,47.48,medium,low,9,namecheap,,,12/09/2026 23:55
 4bbf5ec7-a9b5-4d30-9754-8d7ac09e4266,aviary.systems,available,18.99,34.99,high,low,6,namesilo,,,21/09/2026 09:22
 3d03efbf-bb54-406f-8b8c-60e386ac0908,granddad.systems,available,21.99,,high,low,8,name.com,,,
 12dd292e-04cb-4492-a9e9-008d027da934,plaudit.systems,available,11.98,47.48,high,low,7,namecheap,,,16/09/2026 22:36
-7459f5f8-1018-4c73-8944-61974043483c,shelters.systems,available,18.99,34.99,high,low,8,namesilo,,,20/09/2026 23:17
+7459f5f8-1018-4c73-8944-61974043483c,shelters.systems,available,18.99,34.99,medium,low,8,namesilo,,,20/09/2026 23:17
 ef80d0d6-62cf-4c2a-a703-1998231db8ff,hanukkah.systems,available,21.99,,high,low,8,name.com,,,
 90d1f0e9-7150-42f0-90b9-64a7f0199ed6,glaucous.systems,available,11.98,47.48,medium,low,8,namecheap,,,20/08/2026 14:16
 9154d16e-eb5e-4608-ae57-0068346be6ba,strontium.systems,available,18.99,34.99,medium,low,9,namesilo,,,20/09/2026 22:59
@@ -465,7 +475,7 @@ ef80d0d6-62cf-4c2a-a703-1998231db8ff,hanukkah.systems,available,21.99,,high,low,
 858f523c-4272-46d9-a0b1-be2775cd810f,urges.systems,available,18.99,34.99,medium,low,5,namesilo,,,16/09/2026 09:15
 745dfb42-3536-45c4-bb94-12764f092b8c,mechanized.systems,available,18.99,34.99,high,low,10,namesilo,,,19/09/2026 16:26
 92ba4abc-6897-48dc-8305-a5df1e5d8eda,insofar.systems,available,11.98,47.48,medium,low,7,namecheap,,,15/09/2026 06:43
-b020cee5-da37-4287-a019-27ac69e24c9e,ashram.systems,available,18.99,34.99,high,low,6,namesilo,,,20/09/2026 13:58
+b020cee5-da37-4287-a019-27ac69e24c9e,ashram.systems,available,18.99,34.99,medium,low,6,namesilo,,,20/09/2026 13:58
 f571ff07-48e3-443e-86d1-39fc2b47192e,blindfold.systems,available,11.98,47.48,high,low,9,namecheap,,,10/08/2026 14:26
 a81ed1ba-2a96-4442-a38e-97ae4aec8656,asteraceae.systems,available,18.99,34.99,medium,low,10,namesilo,,,20/09/2026 17:03
 fc8dfa07-2af3-4dea-939d-29f3d46ee733,supermarket.systems,available,21.99,,high,low,11,name.com,,,
@@ -503,11 +513,11 @@ bfc50bae-2070-4f09-8dc8-1258fd84a416,megan.systems,available,11.98,47.48,medium,
 f51d11c1-5431-47e6-91a6-8c131f7f948c,earthman.systems,available,11.98,47.48,medium,low,8,namecheap,,,11/09/2026 10:45
 aa7f51d1-753d-48fc-b1c7-3937e79cfe81,hint.systems,available,11.98,47.48,high,low,4,namecheap,,,24/09/2026 16:07
 e147df2b-7f19-48b1-86f1-0b4a0cda3e66,unobserved.systems,available,11.98,47.48,medium,low,10,namecheap,,,12/09/2026 16:04
-29b56631-bf54-4849-98f3-493a728dbda4,sharply.systems,available,21.99,,medium,low,7,name.com,,,
+29b56631-bf54-4849-98f3-493a728dbda4,sharply.systems,available,18.99,34.99,medium,low,7,namesilo,,,27/09/2026 20:32
 f7242717-b698-4cd6-858a-cc1c7d66fc1d,phallic.systems,available,11.98,47.48,medium,low,7,namecheap,,,08/09/2026 18:31
 59e050be-3711-46f7-a268-c5a9882fa9b4,sintered.systems,available,11.98,47.48,high,low,8,namecheap,,,10/09/2026 08:34
 8b424edc-09aa-462d-ac5a-31ea9fcbad38,awfully.systems,available,18.99,34.99,medium,low,7,namesilo,,,22/09/2026 15:26
-3e81888e-f26e-4367-b9a6-53e5eb8ed79c,diehard.systems,available,11.98,47.48,high,low,7,namecheap,,,11/09/2026 18:42
+3e81888e-f26e-4367-b9a6-53e5eb8ed79c,diehard.systems,available,11.98,47.48,medium,low,7,namecheap,,,11/09/2026 18:42
 d9571ec4-4b34-4db9-8b20-17d6967efba2,exegetic.systems,available,11.98,47.48,medium,low,8,namecheap,,,17/08/2026 16:59
 aac9d02b-0133-4ccd-80d4-84b7a9c496ee,wrist.systems,available,21.99,,high,low,5,name.com,,,
 00175bc4-8f82-4e97-b350-e79a6e1e4d09,motorcycle.systems,available,18.99,34.99,high,low,10,namesilo,,,23/09/2026 15:33
@@ -523,12 +533,12 @@ c45c05c9-eafd-497c-92c8-cd02482104a5,retractile.systems,available,11.98,47.48,me
 1c301797-42c2-4e48-a56f-05618b1efb76,fungous.systems,available,11.98,47.48,low,low,7,namecheap,,,18/08/2026 18:30
 a51f0202-581b-44a0-a4ca-3725c1986345,bespoken.systems,available,11.98,47.48,medium,low,8,namecheap,,,09/08/2026 17:31
 deac667a-eba1-479a-afc2-a537ee7d49e4,newfound.systems,available,11.98,47.48,medium,low,9,namecheap,,,08/09/2026 04:48
-bea29c5b-9eae-4697-8ca1-65ee56cf9dfc,sneaky.systems,available,11.98,47.48,high,low,6,namecheap,,,18/08/2026 18:58
+bea29c5b-9eae-4697-8ca1-65ee56cf9dfc,sneaky.systems,available,11.98,47.48,medium,low,6,namecheap,,,18/08/2026 18:58
 f369872a-6e40-4cf1-8521-5d5b9a711666,batsman.systems,available,11.98,47.48,medium,low,7,namecheap,,,22/09/2026 14:19
 f9a8a608-bfce-44d8-9b91-9b5e4975b4ed,omar.systems,available,18.99,34.99,high,low,4,namesilo,,,25/09/2026 15:21
 5d0b3c54-76d4-411f-a0f9-d7e689dd728e,lecherous.systems,available,11.98,47.48,medium,low,9,namecheap,,,22/08/2026 22:17
 3b670dd6-1325-40c0-8e0e-2c8a5bdd39d5,gramme.systems,available,21.99,,high,low,6,name.com,,,
-5471446e-df9c-4829-bd8b-ef0fa5a67e1b,disparity.systems,available,21.99,,high,low,9,name.com,,,
+5471446e-df9c-4829-bd8b-ef0fa5a67e1b,disparity.systems,available,21.99,,medium,low,9,name.com,,,
 a80120a2-1846-477b-8a99-56e02f703d29,existing.systems,available,18.99,34.99,high,low,8,namesilo,,,24/09/2026 15:59
 d135558b-8c30-42f9-9c72-34e4f9780119,abrogation.systems,available,18.99,34.99,medium,low,10,namesilo,,,16/09/2026 17:14
 bf2f0b47-8543-4b02-b266-6d5240999c77,alkaloidal.systems,available,11.98,47.48,medium,low,10,namecheap,,,
@@ -562,7 +572,7 @@ d3324008-02af-4bf7-a4b7-1db97cf7b02d,browned.systems,available,11.98,47.48,mediu
 7f718c12-f624-4c62-ab12-ddf918722c5e,bandits.systems,available,18.99,34.99,medium,low,7,namesilo,,,21/09/2026 01:18
 cee6974c-9f63-45c4-a256-83f584b7296b,attorney.systems,premium,118.8,118.8,high,low,8,namesilo,,,
 e4ed9cb5-f099-490b-b7c9-ae162121bc07,theatres.systems,available,18.99,34.99,high,low,8,namesilo,,,20/09/2026 19:41
-6e9c9aa0-40c2-4ddc-a0b3-4d7de1a28fd4,embossed.systems,available,11.98,47.48,high,low,8,namecheap,,,11/08/2026 05:17
+6e9c9aa0-40c2-4ddc-a0b3-4d7de1a28fd4,embossed.systems,available,11.98,47.48,medium,low,8,namecheap,,,11/08/2026 05:17
 3defdc8e-6b00-4d5e-9ed2-9eb84216018a,absorbing.systems,available,18.99,34.99,high,low,9,namesilo,,,21/09/2026 15:02
 d0060483-61a8-4b36-aaf3-c3f92b5f2e37,ternion.systems,available,,,medium,low,7,,,,
 ba0ab112-c97b-4f68-8757-8968fac62120,nilpotent.systems,available,11.98,47.48,medium,low,9,namecheap,,,03/09/2026 17:28
@@ -584,6 +594,7 @@ cec8db18-980e-4e4e-871d-025d8b49e0ab,potbellied.systems,available,11.98,47.48,me
 4f78e36f-32b3-4ab4-a26c-f8af93424384,birdseed.systems,available,11.98,47.48,high,low,8,namecheap,,,23/09/2026 19:50
 df249089-21dc-4af3-a357-3e307664cc59,gaur.systems,available,18.99,34.99,medium,low,4,namesilo,,,23/09/2026 13:04
 bc86e22e-0341-451b-8a64-d64af370fa4f,vexation.systems,available,,,medium,low,8,,,,
+cf308371-606b-4b6c-b999-a5f9c297000b,concerning.systems,available,27.2,27.2,high,low,10,cloudflare,,,28/09/2026 03:24
 158a68ac-6393-4ed6-b210-d18b0261b36b,backward.systems,available,11.98,47.48,high,low,8,namecheap,,,22/09/2026 15:53
 0fc0e663-0eea-4a8b-8fda-a07aacc3827a,apian.systems,available,11.98,47.48,medium,low,5,namecheap,,,05/08/2026 23:47
 086effd0-515d-4e96-bbc9-279619b63405,northwards.systems,available,11.98,47.48,medium,low,10,namecheap,,,03/09/2026 21:25
@@ -610,14 +621,14 @@ c37ac948-0c4e-42b7-934f-3c44a2048f94,javanese.systems,available,11.98,47.48,high
 dfbba9ff-0b33-462a-a645-eaa15b6a90d9,damnable.systems,available,21.99,45.99,medium,low,8,name.com,,,13/08/2026 16:29
 99b56897-1af9-4220-8f27-bcc2575ff00c,essay.systems,available,18.99,34.99,high,low,5,namesilo,,,21/09/2026 01:17
 c74ca6c3-f021-4a82-becd-e6499a466a13,epizoon.systems,available,11.98,47.48,medium,low,7,namecheap,,,15/08/2026 00:52
-432e921a-faa8-490d-bc9c-acab7924edaa,ammeter.systems,available,18.99,34.99,high,low,7,namesilo,,,18/09/2026 22:00
+432e921a-faa8-490d-bc9c-acab7924edaa,ammeter.systems,available,18.99,34.99,medium,low,7,namesilo,,,18/09/2026 22:00
 d0b5df79-df40-466a-b34c-645899685f5d,bioscope.systems,available,11.98,47.48,medium,low,8,namecheap,,,23/09/2026 19:01
 f4ba2857-b46f-4d65-9a52-53f3fccf1f06,randomly.systems,available,11.98,47.48,medium,low,8,namecheap,,,13/09/2026 20:35
-42ed3277-8258-4f1a-a78d-1542187df44b,amaranthus.systems,available,18.99,34.99,high,low,10,namesilo,,,18/09/2026 15:51
+42ed3277-8258-4f1a-a78d-1542187df44b,amaranthus.systems,available,18.99,34.99,medium,low,10,namesilo,,,18/09/2026 15:51
 96e97770-93e9-4dc8-951f-8b4eb3ea54ea,yams.systems,available,18.99,34.99,medium,low,4,namesilo,,,19/09/2026 22:19
 33fee345-3c33-4030-be34-0091c64c032d,bessel.systems,available,18.99,34.99,medium,low,6,namesilo,,,23/09/2026 10:26
 12ff8934-8cc8-44e4-9a3a-88e0fada4498,suicide.systems,available,21.99,45.99,high,low,7,name.com,,,25/09/2026 05:57
-a48cc78e-ca05-4ab8-874d-81822a0fae4e,aldose.systems,available,18.99,34.99,high,low,6,namesilo,,,18/09/2026 04:38
+a48cc78e-ca05-4ab8-874d-81822a0fae4e,aldose.systems,available,18.99,34.99,medium,low,6,namesilo,,,18/09/2026 04:38
 ebfab90a-f9ad-49bc-b353-e0d6d1cccdf0,loyalist.systems,available,11.98,47.48,high,low,8,namecheap,,,10/09/2026 18:31
 9c190298-046a-401f-bb0f-a32d3bad7fcd,presumably.systems,available,11.98,47.48,medium,low,10,namecheap,,,15/09/2026 21:20
 bf41cd5f-46d1-44ac-aec7-ece081b27d65,smutty.systems,available,11.98,47.48,medium,low,6,namecheap,,,13/08/2026 08:53
@@ -627,7 +638,7 @@ c2501bac-c8aa-44f6-b1ae-56ed4f015202,pouring.systems,available,11.98,47.48,high,
 621db46c-8f05-4a8d-aa1c-676b2a0e3de0,visitors.systems,available,18.99,34.99,high,low,8,namesilo,,,18/09/2026 16:57
 7c101952-f80f-4b53-bc97-cbc313b3bc1f,concept.systems,resell,,,high,low,7,"Sav.com, LLC",05/06/2017 18:37,05/06/2027 18:37,26/09/2026 05:10
 a0859d09-bb5f-4118-a0a3-afb75e2a706a,smithsonian.systems,available,11.98,47.48,high,low,11,namecheap,,,25/09/2026 12:40
-91c4799d-a82a-47d9-8b27-dc3e4e1db32b,papuan.systems,available,11.98,47.48,high,low,6,namecheap,,,05/09/2026 01:44
+91c4799d-a82a-47d9-8b27-dc3e4e1db32b,papuan.systems,available,11.98,47.48,medium,low,6,namecheap,,,05/09/2026 01:44
 d28a06be-8e32-4e4e-a107-aca24f8f6323,completing.systems,available,18.99,34.99,high,low,10,namesilo,,,23/09/2026 17:20
 b4cb087d-829b-422f-8a1f-059d3b00f509,establishments.systems,available,21.99,,medium,low,14,name.com,,,
 c2129929-5690-4843-8b41-db0ae0eab937,tenebrous.systems,available,11.98,47.48,medium,low,9,namecheap,,,11/09/2026 11:19
@@ -642,7 +653,7 @@ db3c6268-56c7-4313-adb1-146604912ff1,doctoral.systems,available,11.98,47.48,medi
 25359809-18d6-4dff-9448-dafc2bb5ffa4,blink.systems,premium,512,512,high,medium,5,namesilo,,,22/09/2026 22:02
 4eb0b82f-a002-4ade-b85c-45c4ea6a217f,mikey.systems,available,21.99,,high,low,5,name.com,,,
 a7b7f0ac-784d-4c9a-a5ec-b43e974d153c,popular.systems,available,18.99,34.99,high,low,7,namesilo,,,27/09/2026 04:30
-13a8d837-4a6e-40d4-bf48-ccf81c30bbbc,stopped.systems,available,21.99,,high,low,7,name.com,,,
+13a8d837-4a6e-40d4-bf48-ccf81c30bbbc,stopped.systems,available,27.2,27.2,high,low,7,cloudflare,,,28/09/2026 01:05
 72a80a7b-6608-492e-85a9-6b8e14f009ca,rip.systems,premium,118.8,118.8,high,low,3,namesilo,,,27/09/2026 07:10
 d92b60ce-3421-4d63-b8ec-2854cff5d4bb,depression.systems,available,18.99,34.99,medium,low,10,namesilo,,,25/09/2026 14:31
 8a155ccc-f8b7-4c08-9b46-f5db3b79d3c7,dosed.systems,available,11.98,47.48,medium,low,5,namecheap,,,14/08/2026 16:24
@@ -657,7 +668,7 @@ d9f136c6-0439-408b-90a6-4f97d37c1f45,exempt.systems,available,11.98,47.48,high,l
 76333387-8fc1-4ecb-8e14-9e5b75dae749,macabre.systems,available,11.98,47.48,medium,low,7,namecheap,,,18/08/2026 23:19
 aa129824-57f4-40ee-8140-3c0059a7c42c,pediatrist.systems,available,11.98,47.48,high,low,10,namecheap,,,21/09/2026 13:27
 db86a8b6-87d0-42e8-981a-3325186384ce,unshaven.systems,available,11.98,47.48,medium,low,8,namecheap,,,12/09/2026 19:40
-594bbf68-3161-43a4-81d0-35b37261bbd0,tempering.systems,available,11.98,47.48,high,low,9,namecheap,,,11/09/2026 10:56
+594bbf68-3161-43a4-81d0-35b37261bbd0,tempering.systems,available,11.98,47.48,medium,low,9,namecheap,,,11/09/2026 10:56
 b41c8fff-2226-4987-bb45-f040856676d3,mutation.systems,available,11.98,47.48,high,low,8,namecheap,,,03/09/2026 11:41
 8867866e-921a-4e2f-b4eb-3014c48d2d14,disgrace.systems,available,21.99,,high,low,8,name.com,,,
 7af2d2d7-c0b4-4ed7-9ea1-adc8982df728,analyzed.systems,available,11.98,47.48,high,low,8,namecheap,,,
@@ -675,7 +686,7 @@ b7b4e2a4-7115-4a6e-a1ca-f3e4b8c0df4a,wrinkled.systems,available,11.98,47.48,medi
 47c51eba-85f5-4a22-beaf-d51aadf3dbe2,byzant.systems,available,18.99,34.99,medium,low,6,namesilo,,,23/09/2026 12:17
 c482aa38-e3ba-4aae-9309-dead01e7af8c,darn.systems,available,21.99,45.99,high,low,4,name.com,,,13/08/2026 16:10
 81a52d8f-3a96-4aa5-9c29-9725997652f6,aphakia.systems,available,11.98,47.48,medium,low,7,namecheap,,,19/09/2026 16:51
-9df4ca77-2a25-4336-bce7-d12a7ac79bd9,hurry.systems,available,21.99,,high,low,5,name.com,,,
+9df4ca77-2a25-4336-bce7-d12a7ac79bd9,hurry.systems,available,11.98,47.48,high,low,5,namecheap,,,27/09/2026 17:14
 b246ceed-a4c6-4f68-a4ff-927c6457a906,bespoke.systems,resell,,,high,low,7,Dynadot Inc,13/02/2026 17:00,13/02/2027 17:00,26/09/2026 04:22
 8c41f700-27fe-46b7-a8b6-4088e3aaaba9,paean.systems,available,11.98,47.48,high,low,5,namecheap,,,05/09/2026 00:45
 92185285-f29a-4ed3-bbdb-02f638f96fcd,squab.systems,available,11.98,47.48,medium,low,5,namecheap,,,10/09/2026 17:08
@@ -684,7 +695,7 @@ b84955c3-a22b-4e83-979b-09d76fc608a2,amenities.systems,available,11.98,47.48,hig
 50897c68-65fe-4965-84cb-7cdec82289c8,compton.systems,available,18.99,34.99,high,low,7,namesilo,,,20/09/2026 10:47
 4caceff9-a93a-49de-bb20-7ff170c306a3,alces.systems,available,18.99,34.99,high,low,5,namesilo,,,18/09/2026 03:55
 8892ba72-1da1-477f-b24d-c80e9331466d,jillion.systems,available,11.98,47.48,medium,low,7,namecheap,,,11/09/2026 19:52
-e76de719-7c6a-406f-9780-216a311880fe,girlish.systems,available,11.98,47.48,high,low,7,namecheap,,,18/08/2026 23:59
+e76de719-7c6a-406f-9780-216a311880fe,girlish.systems,available,11.98,47.48,medium,low,7,namecheap,,,18/08/2026 23:59
 36625e11-cf77-48c5-b670-e980dd302b50,centimeter.systems,available,18.99,34.99,high,low,10,namesilo,,,24/09/2026 13:34
 1c15cf8f-3de0-4ae0-a5c0-f8f0bf4bc9cb,recipient.systems,available,21.99,,high,low,9,name.com,,,
 fd4f17d7-03e7-4744-bd84-080e3ca80e39,wittingly.systems,available,11.98,47.48,medium,low,9,namecheap,,,15/09/2026 10:32
@@ -702,10 +713,11 @@ b8e6b70c-7234-4161-ada1-520d03a5ae2e,divas.systems,available,18.99,34.99,medium,
 c1c5ea57-0229-4f86-9413-257433a89243,arenga.systems,available,18.99,34.99,medium,low,6,namesilo,,,20/09/2026 03:43
 5822b76a-01d9-4ab2-a2e4-6c3f54e6ca58,mrna.systems,available,18.99,34.99,high,low,4,namesilo,,,25/09/2026 23:11
 d6f6805c-d098-4c30-9218-de26a6fade66,basely.systems,available,11.98,47.48,medium,low,6,namecheap,,,13/09/2026 23:35
-ecce219e-877c-4715-984f-0b21a6c52ae3,smug.systems,available,11.98,47.48,high,low,4,namecheap,,,10/09/2026 02:05
+ecce219e-877c-4715-984f-0b21a6c52ae3,smug.systems,available,11.98,47.48,medium,low,4,namecheap,,,10/09/2026 02:05
 8e049925-f538-4683-ae5a-90d19f19f4fe,resiny.systems,available,11.98,47.48,medium,low,6,namecheap,,,09/09/2026 15:15
 39579e6b-ca8a-4ad8-89d3-0959fcf1c09e,starts.systems,available,21.99,,medium,low,6,name.com,,,
 388e7425-3d1e-4088-85bb-71351c28125d,blattodea.systems,available,18.99,34.99,medium,low,9,namesilo,,,24/09/2026 04:54
+3ed1974a-9446-4f0b-b85a-14b12499d2e4,julius.systems,available,11.84,28.32,high,low,6,porkbun,,,27/09/2026 18:53
 970f92f2-fb7e-4204-bc95-9bb8d1a86761,killingly.systems,available,11.98,47.48,low,low,9,namecheap,,,15/09/2026 10:22
 ba4f782e-749c-498d-80df-b63622861f3c,courses.systems,available,21.99,,high,low,7,name.com,,,
 4211871e-2fcd-41a6-8596-16762fd3f507,almost.systems,available,21.99,,high,low,6,name.com,,,
@@ -725,7 +737,7 @@ c9ae3c81-67cf-4726-9166-b0a4353429be,benignly.systems,available,11.98,47.48,medi
 533e05a9-560f-48a0-9ca6-e00ed16df51a,devour.systems,available,21.99,,high,low,6,name.com,,,
 f12b66cf-1778-4ab1-bee7-af94f8e6cf31,fragmental.systems,available,11.98,47.48,medium,low,10,namecheap,,,18/08/2026 14:01
 24296b8c-9215-4e87-aa19-ce266eb0981b,busily.systems,available,11.98,47.48,medium,low,6,namecheap,,,14/09/2026 01:53
-f00dc60c-f6f1-45c4-bf82-f25353ce3f7c,neandertal.systems,available,11.98,47.48,high,low,10,namecheap,,,10/08/2026 19:30
+f00dc60c-f6f1-45c4-bf82-f25353ce3f7c,neandertal.systems,available,11.98,47.48,medium,low,10,namecheap,,,10/08/2026 19:30
 55517e78-9c40-4a94-aba3-aab90892a9ed,und.systems,available,18.99,34.99,high,low,3,namesilo,,,25/09/2026 11:22
 5fea63a9-2e9e-48eb-bab4-9246940790e6,vise.systems,available,18.99,34.99,medium,low,4,namesilo,,,23/09/2026 07:37
 9878a0d3-d566-41d9-9034-91560fc580e7,sensual.systems,available,18.99,34.99,high,low,7,namesilo,,,22/09/2026 04:34
@@ -737,6 +749,7 @@ f00dc60c-f6f1-45c4-bf82-f25353ce3f7c,neandertal.systems,available,11.98,47.48,hi
 9877d654-1b16-4241-82dc-517931336a83,whir.systems,available,11.98,47.48,medium,low,4,namecheap,,,13/09/2026 11:30
 e3d16718-c0c0-498f-811d-f02b704b3bd7,unweaned.systems,available,11.98,47.48,medium,low,8,namecheap,,,12/09/2026 22:29
 cb987a1a-569d-4df4-8ca8-e6c3ec914dfd,covers.systems,available,18.99,34.99,high,low,6,namesilo,,,27/09/2026 09:49
+87b803aa-ae2b-4615-8606-0bee6cf95e57,ribs.systems,available,27.2,27.2,medium,low,4,cloudflare,,,28/09/2026 00:08
 b4e01543-e552-44fb-ae10-2358a21b4bb9,lxiv.systems,available,11.98,47.48,medium,low,4,namecheap,,,
 bdff00cd-6850-4f1f-80a8-68c92f32be04,advertent.systems,available,11.98,47.48,medium,low,9,namecheap,,,
 1935b277-9cdc-49b8-ae99-516f49c7b665,meritable.systems,available,11.98,47.48,medium,low,9,namecheap,,,24/08/2026 20:53
@@ -750,16 +763,17 @@ a18ea2ff-3bcc-43ba-af0e-1d2395c3b217,oft.systems,available,11.98,47.48,high,low,
 fd9efca5-c730-41df-84ab-0e5baa5a183b,banging.systems,available,11.98,47.48,high,low,7,namecheap,,,08/08/2026 13:03
 8d53ab31-e62c-48c5-8837-af7e54832df9,provinces.systems,available,18.99,34.99,medium,low,9,namesilo,,,18/09/2026 15:35
 cfe266ac-8acc-462b-a325-ffc6ec6fbc6d,tablets.systems,available,18.99,34.99,high,low,7,namesilo,,,18/09/2026 15:46
-ccf8249c-d727-4994-bb4f-2c666bb62cfe,erst.systems,available,11.98,47.48,high,low,4,namecheap,,,17/08/2026 13:07
+ccf8249c-d727-4994-bb4f-2c666bb62cfe,erst.systems,available,11.98,47.48,medium,low,4,namecheap,,,17/08/2026 13:07
 bf8392c6-8108-4b00-b7fd-512988dc71a1,cryptical.systems,available,11.98,47.48,medium,low,9,namecheap,,,11/08/2026 12:19
 58b2ee38-8a54-41e6-9fe8-0a35ed406516,lutzen.systems,available,18.99,34.99,medium,low,6,namesilo,,,22/09/2026 15:24
 06294979-f49d-455a-a363-aff35824063c,atilt.systems,available,11.98,47.48,medium,low,5,namecheap,,,07/08/2026 13:13
 1e1186fa-d1f4-45ab-873c-0c0896a87a0d,carrel.systems,available,18.99,34.99,medium,low,6,namesilo,,,18/09/2026 06:05
 3d35ff77-9acc-41fc-be12-509e28c3a843,beacon.systems,resell,,,high,medium,6,Dynadot Inc,18/08/2024 18:13,18/08/2027 18:13,26/09/2026 04:18
 29bcb546-daa7-447a-86a6-5d6d77614918,assuage.systems,available,11.98,47.48,high,low,7,namecheap,,,18/08/2026 22:06
-7462cc61-9230-41ad-ba8e-0152ab2dcfe5,axletree.systems,available,18.99,34.99,high,low,8,namesilo,,,21/09/2026 10:27
+7462cc61-9230-41ad-ba8e-0152ab2dcfe5,axletree.systems,available,18.99,34.99,medium,low,8,namesilo,,,21/09/2026 10:27
 001c2aec-7b5b-4675-9dd0-2db2a08e820f,humbug.systems,available,18.99,34.99,medium,low,6,namesilo,,,21/09/2026 23:48
 b92b4bf6-b9bc-43cb-9daf-947c583d8938,special.systems,resell,,,high,low,7,"Sav.com, LLC",05/09/2017 08:34,05/09/2027 08:34,26/09/2026 09:11
+f6ccb01d-aeef-473f-8daa-2920b2a6a8b9,gwen.systems,available,10.55,28.15,high,low,4,spaceship,,,27/09/2026 19:20
 4157ae22-a52f-4df4-99d3-0d68e099c3a8,provably.systems,available,11.98,47.48,medium,low,8,namecheap,,,14/09/2026 11:29
 36ef2101-c9d3-40ce-ad85-587d75c23809,dazed.systems,available,21.99,45.99,medium,low,5,name.com,,,13/08/2026 18:53
 13f1a3fc-3d23-4dd8-a16d-c7d1113fa839,thundered.systems,available,18.99,34.99,medium,low,9,namesilo,,,20/09/2026 16:05
@@ -767,7 +781,7 @@ c3fa5d4b-7892-42c2-91c3-362c2c292b8c,ocellated.systems,available,11.98,47.48,med
 d0244385-f62c-47bf-8028-ef805b12317f,filmable.systems,available,11.98,47.48,medium,low,8,namecheap,,,18/08/2026 04:23
 4866368f-65ce-4d35-90a3-7f289d970c67,vincent.systems,available,18.99,34.99,high,low,7,namesilo,,,25/09/2026 11:54
 aa953645-8905-42c4-b10a-2cb7e95be6b0,fog.systems,available,18.99,34.99,high,low,3,namesilo,,,25/09/2026 23:40
-a63d0994-ee26-49cf-b222-edc83f16ee14,cloudburst.systems,available,11.98,47.48,high,low,10,namecheap,,,24/09/2026 16:03
+a63d0994-ee26-49cf-b222-edc83f16ee14,cloudburst.systems,available,11.98,47.48,medium,low,10,namecheap,,,24/09/2026 16:03
 16ed8ec0-a609-4f8a-825f-35e1c5ca739d,scheme.systems,available,21.99,,high,low,6,name.com,,,
 30d04cd1-b15f-4d40-bb45-e60c16dc753f,lab.systems,resell,,,high,medium,3,Dynadot Inc,19/03/2014 16:00,19/03/2027 16:00,26/09/2026 07:07
 d43975e6-ccdd-4a52-9649-0a515f958420,embracing.systems,available,21.99,,high,low,9,name.com,,,
@@ -780,7 +794,7 @@ b77ad097-1d76-4552-925c-86aed8ac8af2,volvo.systems,available,21.99,,high,low,5,n
 c4b0b53b-b1a6-4c50-8ce4-e009bad78343,landward.systems,available,11.98,47.48,medium,low,8,namecheap,,,15/09/2026 10:39
 82573f0a-9959-45b9-a5c8-feb8ad06b72b,birmingham.systems,available,11.98,47.48,high,low,10,namecheap,,,11/08/2026 06:43
 287e6acc-4135-47f9-9386-0874f1f3d971,cannibal.systems,available,18.99,34.99,medium,low,8,namesilo,,,19/09/2026 13:56
-e5b3aae2-8eec-468d-a70b-e7b10c2cd40f,agricola.systems,available,11.98,47.48,high,low,8,namecheap,,,17/09/2026 19:19
+e5b3aae2-8eec-468d-a70b-e7b10c2cd40f,agricola.systems,available,11.98,47.48,medium,low,8,namecheap,,,17/09/2026 19:19
 9e7462fc-c37f-4cca-ac33-58d3115f82aa,shackled.systems,available,11.98,47.48,medium,low,8,namecheap,,,18/08/2026 02:56
 6f196aae-fb69-46b2-8cde-9c0ab44fae8c,drove.systems,available,18.99,34.99,high,low,5,namesilo,,,25/09/2026 22:29
 3c79fcee-6d72-4126-a9d6-97cef717560e,illegalize.systems,available,11.98,47.48,medium,low,10,namecheap,,,04/09/2026 19:26
@@ -788,7 +802,7 @@ e5b3aae2-8eec-468d-a70b-e7b10c2cd40f,agricola.systems,available,11.98,47.48,high
 20768515-0475-4fb6-b6e0-fdc411eae43a,fixedly.systems,available,11.98,47.48,low,low,7,namecheap,,,14/09/2026 18:44
 543c4b39-b838-4fd1-ac36-644fe2d93304,consumer.systems,available,21.99,,high,low,8,name.com,,,
 46a84240-850b-4e85-9006-5173dfebb878,alcoholic.systems,available,11.98,47.48,high,low,9,namecheap,,,
-c82d77ab-8d71-4a81-ab56-860cb1d18499,manx.systems,available,11.98,47.48,high,low,4,namecheap,,,24/08/2026 15:32
+c82d77ab-8d71-4a81-ab56-860cb1d18499,manx.systems,available,11.98,47.48,medium,low,4,namecheap,,,24/08/2026 15:32
 ae858db4-9325-4ebd-97ed-9c9522e63819,biro.systems,available,18.99,34.99,medium,low,4,namesilo,,,21/09/2026 23:23
 a0e4aa07-a7eb-4b46-984d-406f9d7fca23,turnabout.systems,available,21.99,,medium,low,10,name.com,,,
 42e76917-ce90-49fd-ac0d-dcf6df6211d2,feelings.systems,available,21.99,,high,low,8,name.com,,,
@@ -799,7 +813,7 @@ cb32c64e-7d5c-40f5-8a56-9d470e016a36,rudderfish.systems,available,11.98,47.48,me
 9d838fe5-c3e6-4ffd-a787-5a766f21d03e,markets.systems,premium,78.54,78.54,high,low,7,namesilo,,,23/09/2026 06:42
 7f6b15e4-2d76-4ca3-b5dc-d6084c473dbe,coffeecake.systems,available,21.99,,high,low,11,name.com,,,
 26071267-e33e-46b0-ad72-4db84420c8e1,consoling.systems,available,11.98,47.48,high,low,9,namecheap,,,12/08/2026 22:42
-f8472c45-510b-4912-8416-7ee35984da8b,devoutly.systems,available,11.98,47.48,high,low,8,namecheap,,,14/09/2026 12:30
+f8472c45-510b-4912-8416-7ee35984da8b,devoutly.systems,available,11.98,47.48,medium,low,8,namecheap,,,14/09/2026 12:30
 6c9c4280-3cca-477d-a5ee-2a5b6f042f37,resolvable.systems,available,11.98,47.48,high,low,10,namecheap,,,27/09/2026 12:20
 3b44ac0c-d68d-43a5-bb44-9c84af32976d,dishes.systems,available,21.99,45.99,medium,low,6,name.com,,,27/09/2026 02:34
 ca0f234e-16c1-4895-b0ea-e602363633df,acoustics.systems,available,18.99,34.99,high,low,9,namesilo,,,17/09/2026 02:36
@@ -824,11 +838,11 @@ e4296a60-8b8a-4c21-b87c-c60613247fec,brambly.systems,available,11.98,47.48,mediu
 a14b818c-dafe-4c39-ba7a-55802d6d33aa,amperage.systems,available,18.99,34.99,high,low,8,namesilo,,,18/09/2026 23:07
 650b5f8c-7597-449e-ac8b-82b647c807bb,normally.systems,available,21.99,,high,low,8,name.com,,,
 1c02e465-2c48-4bc0-b416-207e673776f3,saturnine.systems,available,11.98,47.48,medium,low,9,namecheap,,,20/08/2026 15:03
-a0433b34-0f22-4773-a885-1be365e14cdf,edged.systems,available,21.99,45.99,high,low,5,name.com,,,13/08/2026 13:14
+a0433b34-0f22-4773-a885-1be365e14cdf,edged.systems,available,21.99,45.99,medium,low,5,name.com,,,13/08/2026 13:14
 a6189406-3762-4b33-9b0b-454c33dd6879,deformity.systems,available,11.98,47.48,medium,low,9,namecheap,,,24/09/2026 21:21
 f76dba77-5e24-470d-9dbc-4d33521a7250,elective.systems,available,11.98,47.48,high,low,8,namecheap,,,16/08/2026 02:33
 de9c56e9-7607-4336-8c0f-310af904a801,hematic.systems,available,11.98,47.48,medium,low,7,namecheap,,,20/08/2026 21:53
-66bc5e8c-afef-48da-9de0-cb5d055ca46d,enclosed.systems,available,11.98,47.48,high,low,8,namecheap,,,16/08/2026 22:21
+66bc5e8c-afef-48da-9de0-cb5d055ca46d,enclosed.systems,available,11.98,47.48,medium,low,8,namecheap,,,16/08/2026 22:21
 b277e310-8de2-44f7-adac-7c0ec11efeb8,annotator.systems,available,11.98,47.48,medium,low,9,namecheap,,,19/09/2026 10:48
 664a9903-eac7-422f-9ad6-25794e14ca75,diluted.systems,available,11.98,47.48,medium,low,7,namecheap,,,14/08/2026 07:45
 58593dda-2ebf-4b71-b356-42627549e232,befuddled.systems,available,11.98,47.48,medium,low,9,namecheap,,,07/08/2026 11:41
@@ -860,7 +874,7 @@ dac5d2b2-2fd2-4cff-b9a9-36e8efd65a06,abruzzi.systems,available,18.99,34.99,mediu
 b89f68fd-aafc-415f-b134-ea252e41ea2d,comedians.systems,available,18.99,34.99,medium,low,9,namesilo,,,19/09/2026 23:33
 4a0989dc-bf05-471f-8cd9-088bd65f9ce4,conducting.systems,available,21.99,,high,low,10,name.com,,,
 532ed4c5-23a7-4fe8-9498-c4a5338cfd97,beckley.systems,available,18.99,34.99,medium,low,7,namesilo,,,22/09/2026 22:43
-f90b3f1a-b4b1-441f-bf2c-e7ac613fd9d3,tomboyish.systems,available,11.98,47.48,high,low,9,namecheap,,,21/08/2026 14:32
+f90b3f1a-b4b1-441f-bf2c-e7ac613fd9d3,tomboyish.systems,available,11.98,47.48,medium,low,9,namecheap,,,21/08/2026 14:32
 3b015aae-6934-477e-a7ae-db67a35bebc8,shirts.systems,available,18.99,34.99,medium,low,6,namesilo,,,27/09/2026 11:13
 10ef4127-1a3a-48d6-87b9-728e756c6b78,unfailing.systems,available,11.98,47.48,high,low,9,namecheap,,,18/08/2026 10:39
 7f22e0d5-a906-4b4e-820a-794314e00dc9,almoner.systems,available,18.99,34.99,medium,low,7,namesilo,,,18/09/2026 12:40
@@ -875,12 +889,12 @@ eed88411-9ac5-4e7e-944d-9c0b102fe46f,demode.systems,available,11.98,47.48,medium
 b8b0e288-e2a6-4c6f-82e6-e484fc8a98a5,breeding.systems,available,11.98,47.48,high,low,8,namecheap,,,11/08/2026 03:36
 3f2328c3-4039-4685-83b4-2d6f4748d472,howl.systems,available,18.99,34.99,high,low,4,namesilo,,,25/09/2026 00:27
 1becdf47-ada3-4cce-9cbb-3c8cc7e38bc0,sextuple.systems,available,11.98,47.48,medium,low,8,namecheap,,,10/09/2026 05:19
-a0a972f4-a7a1-4a2e-b24e-f272cdae2748,anatolian.systems,available,18.99,34.99,high,low,9,namesilo,,,19/09/2026 03:29
+a0a972f4-a7a1-4a2e-b24e-f272cdae2748,anatolian.systems,available,18.99,34.99,medium,low,9,namesilo,,,19/09/2026 03:29
 707d734d-37d5-4d0b-9194-404d253c2bb1,limestone.systems,available,21.99,,high,low,9,name.com,,,
 8ef7450b-ec38-4d44-bcb7-fb4269c4c3ad,adenoma.systems,available,18.99,34.99,medium,low,7,namesilo,,,17/09/2026 07:30
 e2a1abec-9ff1-482c-b274-03d334066254,elite.systems,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",18/11/2025 15:15,18/11/2026 15:15,26/09/2026 05:48
 9d0ce3fb-391d-42c9-ad6d-d4263c80d411,ambulation.systems,available,18.99,34.99,medium,low,10,namesilo,,,18/09/2026 17:29
-46d2d0ff-a8fe-4dec-b588-32f30fecab67,intertidal.systems,available,11.98,47.48,high,low,10,namecheap,,,22/08/2026 08:21
+46d2d0ff-a8fe-4dec-b588-32f30fecab67,intertidal.systems,available,11.98,47.48,medium,low,10,namecheap,,,22/08/2026 08:21
 df479a0f-1d87-4e8d-ad79-10a1a580f70c,bighearted.systems,available,11.98,47.48,high,low,10,namecheap,,,09/08/2026 20:48
 95268703-6252-4911-abc8-85a138a17e0e,thursday.systems,available,21.99,,high,low,8,name.com,,,
 75e4a760-b78a-43f4-bc70-f79c74228b19,inshore.systems,available,11.98,47.48,medium,low,7,namecheap,,,22/08/2026 06:53
@@ -932,7 +946,7 @@ ac593f04-3a16-4b58-a2a6-f3f926ae3a48,alummah.systems,available,11.98,47.48,mediu
 3723ae5a-a7d2-45cc-bf14-a2ce146e2547,overstatement.systems,available,21.99,,medium,low,13,name.com,,,
 65d493f0-9c06-4ced-b951-1e2130489ed4,unsilenced.systems,available,11.98,47.48,medium,low,10,namecheap,,,12/09/2026 19:56
 ebbf9e72-c4c8-461c-bc5a-58059b82bc01,waterborne.systems,available,11.98,47.48,medium,low,10,namecheap,,,13/09/2026 08:36
-52004a72-8181-4e80-a6d8-e541e142c96f,congenial.systems,available,11.98,47.48,high,low,9,namecheap,,,12/08/2026 21:38
+52004a72-8181-4e80-a6d8-e541e142c96f,congenial.systems,available,11.98,47.48,medium,low,9,namecheap,,,12/08/2026 21:38
 ca0228c3-f36c-4571-908e-555f03038fb8,monthly.systems,available,11.98,47.48,high,low,7,namecheap,,,25/09/2026 21:36
 22fa5175-c66f-4846-b97d-395fc15a6bf9,jumps.systems,available,21.99,,high,low,5,name.com,,,
 70ad2f3a-9ce1-482e-8975-05a3a5de24a3,naval.systems,available,11.98,47.48,high,low,5,namecheap,,,03/09/2026 14:07
@@ -955,7 +969,7 @@ ac40924f-f134-446a-984b-ad08580adebd,bicyclist.systems,available,18.99,34.99,hig
 5b6952ab-7b3b-4194-864a-c5308a9f2c7c,legitimacy.systems,available,18.99,34.99,high,low,10,namesilo,,,21/09/2026 05:07
 6617af7b-204a-46a5-b5e7-3ff187b9a230,totalizer.systems,available,18.99,34.99,medium,low,9,namesilo,,,17/09/2026 06:58
 be833de5-354a-4f60-8b0c-da2d10e24a90,orad.systems,available,11.98,47.48,medium,low,4,namecheap,,,15/09/2026 18:09
-a4f98a67-71b2-46fe-9c4f-fc0503a3fbc8,successful.systems,resell,21.99,,high,low,10,Dynadot Inc,13/03/2026 00:38,13/03/2027 00:38,26/09/2026 09:23
+a4f98a67-71b2-46fe-9c4f-fc0503a3fbc8,successful.systems,resell,21.99,,high,low,10,Dynadot Inc,13/03/2026 00:38,13/03/2027 00:38,28/09/2026 01:49
 80abc677-d38c-49ab-b15c-633e82bd0772,goony.systems,available,18.99,34.99,medium,low,5,namesilo,,,23/09/2026 23:48
 35f00adb-a9da-4fdf-9bd4-28144bb986ae,banjul.systems,available,18.99,34.99,medium,low,6,namesilo,,,22/09/2026 02:12
 31b5ad91-6783-48e3-b943-4445f6c38073,wrapped.systems,available,11.98,47.48,high,low,7,namecheap,,,
@@ -966,36 +980,22 @@ f159eb8a-2eba-430b-a48e-83c0938308e5,vandalism.systems,available,21.99,,medium,l
 c48af3b0-1657-4a54-baf9-87bddb8c4bf0,graphics.systems,available,21.99,,high,low,8,name.com,,,
 c47263cb-3bf6-4fe2-b8af-58d4f57b58e5,fallen.systems,available,11.98,47.48,high,low,6,namecheap,,,24/09/2026 16:26
 9d2d4316-c68d-4654-a29f-e0227b69f377,asclepius.systems,available,18.99,34.99,medium,low,9,namesilo,,,17/09/2026 13:21
-7e167bd6-e4cb-4b81-abbc-fe62007e4473,episcopal.systems,available,11.98,47.48,high,low,9,namecheap,,,17/08/2026 11:09
+7e167bd6-e4cb-4b81-abbc-fe62007e4473,episcopal.systems,available,11.98,47.48,medium,low,9,namecheap,,,17/08/2026 11:09
 b3343a75-bd26-4cc7-897f-cb7a8b7df9e4,accipiter.systems,available,18.99,34.99,medium,low,9,namesilo,,,16/09/2026 22:29
 d329a58c-bf17-4d98-9704-b5da6d04259b,ages.systems,available,,,medium,low,4,,,,
 99c8b922-8d89-4865-9bbe-dc4d111ba16d,underage.systems,available,11.98,47.48,medium,low,8,namecheap,,,03/09/2026 18:43
-c45a18c6-459b-426b-a3e9-a78df9224e95,nonsmoking.systems,available,11.98,47.48,high,low,11,namecheap,,,16/09/2026 20:03
+c45a18c6-459b-426b-a3e9-a78df9224e95,nonsmoking.systems,available,11.98,47.48,medium,low,11,namecheap,,,16/09/2026 20:03
 528a864a-d4a5-4617-b8fe-076fcf0a0013,ingrown.systems,available,11.98,47.48,medium,low,7,namecheap,,,22/08/2026 04:56
 20944872-7b74-47cc-a4bd-4a00187467d4,androgyny.systems,available,18.99,34.99,medium,low,9,namesilo,,,19/09/2026 04:54
 4c272232-fa46-402c-a6a2-1bf9865b968d,distantly.systems,available,11.98,47.48,medium,low,9,namecheap,,,14/09/2026 13:17
 c94cdb14-b6f5-42fc-80d3-e578cf394325,pleural.systems,available,11.98,47.48,medium,low,7,namecheap,,,08/09/2026 21:15
-a403195b-ab33-4e6e-b044-02dff6f48b66,asexuality.systems,available,18.99,34.99,high,low,10,namesilo,,,20/09/2026 13:33
+a403195b-ab33-4e6e-b044-02dff6f48b66,asexuality.systems,available,18.99,34.99,medium,low,10,namesilo,,,20/09/2026 13:33
 b49dbab3-d483-4bb9-b5cd-3099f7bba2ab,saturated.systems,available,11.98,47.48,medium,low,9,namecheap,,,09/09/2026 21:53
 7089ea20-ccb3-4e94-962d-253fefd2145d,gusts.systems,available,18.99,34.99,medium,low,5,namesilo,,,20/09/2026 20:54
 ea585c43-27a0-467b-996d-22fba044691c,itchy.systems,available,11.98,47.48,medium,low,5,namecheap,,,05/08/2026 20:43
 eb48748d-a9dd-44f8-9a3b-74a882bbe744,emphasise.systems,available,18.99,34.99,high,low,9,namesilo,,,16/09/2026 21:53
-c8f6e9cc-b86d-4ea7-ac95-f6c72594024b,extremely.systems,available,11.98,47.48,high,low,9,namecheap,,,27/09/2026 02:51
-6950e5e3-5fac-49be-8610-55331bc632f4,ashy.systems,available,11.98,47.48,high,low,4,namecheap,,,07/08/2026 02:04
+c8f6e9cc-b86d-4ea7-ac95-f6c72594024b,extremely.systems,available,11.98,47.48,medium,low,9,namecheap,,,27/09/2026 02:51
+6950e5e3-5fac-49be-8610-55331bc632f4,ashy.systems,available,11.98,47.48,medium,low,4,namecheap,,,07/08/2026 02:04
+3d8f451d-39ff-4754-a66a-a78acec3adb2,montana.systems,available,27.2,27.2,high,low,7,cloudflare,,,28/09/2026 02:26
 32f61a01-1db6-415e-ba32-a2f43b0c5b1e,assembling.systems,available,18.99,34.99,high,low,10,namesilo,,,20/09/2026 16:08
-fc8553f3-b1ee-4d8f-aa36-46508084e29c,barnum.systems,available,18.99,34.99,high,low,6,namesilo,,,22/09/2026 06:55
-e508b7b7-ea41-47ab-9dce-4a15b468cabf,dart.systems,resell,,,high,low,4,Dynadot Inc,10/02/2026 17:00,10/02/2027 17:00,26/09/2026 05:25
-4a7043e6-faeb-447d-9d71-951faf8b6d30,hardback.systems,available,11.98,47.48,medium,low,8,namecheap,,,21/08/2026 00:40
-8636c887-f6b9-41cf-bb1e-3fd24b2473a9,alluvium.systems,available,21.99,45.99,medium,low,8,name.com,,,18/09/2026 12:20
-1e849902-e57a-4607-8441-b48429b5bfb6,revery.systems,available,11.98,47.48,high,low,6,namecheap,,,17/09/2026 21:59
-3d1e2131-9945-4f77-bc37-2d1bc7e8a309,wicked.systems,available,18.99,34.99,high,low,6,namesilo,,,24/09/2026 11:13
-12b0768d-37a4-45cc-93a8-762cb60e46d3,asynchrony.systems,available,18.99,34.99,medium,low,10,namesilo,,,20/09/2026 18:41
-3900da7f-b304-4c98-9979-862052fb4980,unbent.systems,available,11.98,47.48,medium,low,6,namecheap,,,12/09/2026 01:50
-d3ea528a-6c13-4e00-87a3-13b6ff384423,unfortunately.systems,available,21.99,,medium,low,13,name.com,,,
-b486b0f3-01fe-4b30-85a7-7efc2e30b53a,darius.systems,available,11.98,47.48,high,low,6,namecheap,,,27/09/2026 07:28
-fd25420b-e9de-4d6c-a316-02faa03c21eb,banister.systems,available,18.99,34.99,high,low,8,namesilo,,,22/09/2026 00:28
-0190b674-186c-4897-a41f-7dea10097145,seafood.systems,available,11.98,47.48,high,low,7,namecheap,,,08/09/2026 02:47
-09538ea4-b6de-469f-95c3-62c60bf53e60,plush.systems,available,18.99,34.99,high,low,5,namesilo,,,25/09/2026 15:37
-927d837d-6b6e-4375-9066-70667ed1e429,splurge.systems,available,18.99,34.99,high,low,7,namesilo,,,23/09/2026 17:20
-737d6d54-d515-4751-99fa-f26c2cc4e4b2,traveller.systems,available,21.99,,high,low,9,name.com,,,
-114eebeb-e724-4422-88da-613878136072,coat.systems,available,21.99,,high,low,4,name.com,,,
+fc8553f3-b1ee-4d8f-aa36-46508084e29c,barnum.systems,available,18.99,34.99,medium,low,6,namesilo,,,22/09/2026 06:55
