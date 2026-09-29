@@ -1,10 +1,10 @@
-# Available .SYSTEMS One-Word Domains (19,296)
+# Available .SYSTEMS One-Word Domains (20,816)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C296%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C816%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .systems one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,296 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,816 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,296 domains · **Median ask:** $17.27 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 20,816 domains · **Median ask:** $17.14 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/systems`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| bib.systems        | available | $11.98    | $47.48        | high           | low    | 3      | namecheap       |
-| successful.systems | resell    | $21.99    | —             | high           | low    | 10     | Dynadot Inc     |
-| dad.systems        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| but.systems        | available | $11.98    | $47.48        | high           | low    | 3      | namecheap       |
-| buy.systems        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| rip.systems        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| cnn.systems        | available | $21.99    | —             | high           | low    | 3      | name.com        |
-| lab.systems        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| asia.systems       | premium   | $500      | —             | high           | low    | 4      | name.com        |
-| fog.systems        | available | $18.99    | $34.99        | high           | low    | 3      | namesilo        |
-| red.systems        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| blink.systems      | premium   | $512      | $512          | high           | medium | 5      | namesilo        |
-| gut.systems        | available | $10.55    | $28.15        | high           | low    | 3      | spaceship       |
-| help.systems       | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
-| guard.systems      | premium   | $500      | —             | high           | low    | 5      | name.com        |
-| oft.systems        | available | $11.98    | $47.48        | high           | low    | 3      | namecheap       |
-| link.systems       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
-| index.systems      | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo        |
-| qat.systems        | available | $18.99    | $34.99        | medium         | low    | 3      | namesilo        |
-| rent.systems       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bib.systems   | available | $11.98    | $47.48        | high           | low    | 3      | namecheap       |
+| buy.systems   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| dad.systems   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| but.systems   | available | $11.98    | $47.48        | high           | low    | 3      | namecheap       |
+| lab.systems   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
+| rip.systems   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| cnn.systems   | available | $21.99    | —             | high           | low    | 3      | name.com        |
+| red.systems   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
+| asia.systems  | premium   | $414.20   | $414.20       | high           | low    | 4      | spaceship       |
+| fog.systems   | available | $18.99    | $34.99        | high           | low    | 3      | namesilo        |
+| help.systems  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
+| blink.systems | premium   | $512      | $512          | high           | medium | 5      | namesilo        |
+| gmt.systems   | available | $10.55    | $28.15        | medium         | low    | 3      | spaceship       |
+| link.systems  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
+| guard.systems | premium   | $500      | —             | high           | low    | 5      | name.com        |
+| gut.systems   | available | $10.55    | $28.15        | high           | low    | 3      | spaceship       |
+| rent.systems  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| index.systems | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo        |
+| idf.systems   | available | $11.99    | $29.11        | high           | low    | 3      | dynadot         |
+| spot.systems  | resell    | —         | —             | high           | medium | 4      | —               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,296 live domains                        |
+| 1,000-row public sample | 20,816 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
