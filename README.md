@@ -1,10 +1,10 @@
-# Available .SYSTEMS One-Word Domains (22,526)
+# Available .SYSTEMS One-Word Domains (24,420)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C526%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C420%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .systems one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,526 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,420 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,526 domains · **Median ask:** $17.04 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 24,420 domains · **Median ask:** $16.92 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/systems`
 **Best for:** founders, investors, studios
 
@@ -76,14 +76,14 @@ print(df.head())
 | fog.systems    | available | $18.99    | $34.99        | high           | low    | 3      | namesilo        |
 | help.systems   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
 | blink.systems  | premium   | $512      | $512          | high           | medium | 5      | namesilo        |
-| gmt.systems    | available | $10.55    | $28.15        | high           | low    | 3      | spaceship       |
+| gmt.systems    | available | $10.55    | $28.15        | medium         | low    | 3      | spaceship       |
 | lava.systems   | resell    | —         | —             | high           | low    | 4      | —               |
 | guard.systems  | premium   | $440      | $440          | high           | low    | 5      | dynadot         |
 | gut.systems    | available | $10.55    | $28.15        | high           | low    | 3      | spaceship       |
-| link.systems   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
+| spot.systems   | resell    | —         | —             | high           | medium | 4      | —               |
 | boston.systems | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo        |
 | hla.systems    | available | $18       | —             | high           | low    | 3      | unstoppable     |
-| spot.systems   | resell    | —         | —             | high           | medium | 4      | —               |
+| time.systems   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,526 live domains                        |
+| 1,000-row public sample | 24,420 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYSTEMS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
